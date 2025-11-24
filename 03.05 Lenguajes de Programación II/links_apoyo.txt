@@ -1,0 +1,8 @@
+Cómo instalar y configurar SQL SERVER paso a paso
+https://www.youtube.com/watch?v=mA1qoWdNCOE
+Como Crear BASE DE DATOS en SQL SERVER Desde Cero
+https://www.youtube.com/watch?v=fyvEhDgKl7E
+Crear TABLAS en SQL Server con y sin CODIGO
+https://www.youtube.com/watch?v=rHcB0KGoysw
+Insertar Datos en TABLAS en SQL SERVER (INSERT)
+https://www.youtube.com/watch?v=PfY6Ypzp0Io

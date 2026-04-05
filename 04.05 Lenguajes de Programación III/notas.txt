@@ -1,0 +1,3720 @@
+
+--- PÁGINA 1 ---
+Y
+
+ROGRAMACIÓN II
+
+)
+
+ENGUAJES DE
+
+L
+E
+
+J
+a
+
+N
+
+a,
+e
+
+Ar
+/ ]
+
+)
+.>
+
+--- PÁGINA 2 ---
+147
+
+BIENVENIDA
+
+Bienvenido(a) a la asignatura Lenguajes de Programación lll,
+INE con la cual comprenderás los principios del lenguaje C+. Esto
+a” / es importante porque complementa las bases de lenguajes
+Á anteriores que has practicado, como C++, pero además,
+aprenderás cómo trabajar con .NET, y estarás listo para
+
+afrontar los retos de la industria a nivel corporativo.
+
+--- PÁGINA 3 ---
+UNIDAD
+
+INTRODUCCIÓN
+A MICROSOFT .NET
+
+
+--- PÁGINA 4 ---
+a
+>» TEMARIO ”
+
+1,1
+
+FRAMEWORK ”
+
+EA y
+1.2
+: a ENTORNO DE
+> ll j DESARROLLO
+
+A
+
+
+--- PÁGINA 5 ---
+INTRODUCCIÓN
+
+La asignatura de Lenguajes de Programación lll
+tiene como objetivo exponer y enseñar el proceso de
+desarrollo en CH*, comenzando desde el entorno de
+trabajo, las aplicaciones en consola y de escritorio,
+hasta realizar transacciones con BD.
+
+En esta primera unidad el estudiante podrá identificar
+y comprender los distintos elementos y componentes
+de la plataforma .NET, así como los diferentes tipos
+de proyectos a través de un archivo de solución.
+
+--- PÁGINA 6 ---
+El alumno será capaz de
+identificar los distintos
+elementos y componentes
+de la plataforma de .NET.
+
+El alumno será capaz de comprender
+proyectos a través de un archivo de
+solución y de proyecto IDE, para el
+desarrollo de aplicaciones visuales.
+
+
+--- PÁGINA 7 ---
+TE INVITAMOS A VER EL SIGUIENTE VIDEO:
+
+--- PÁGINA 8 ---
+FRAMEWORK
+
+Microsoft .NET es una plataforma de desarrollo
+de software con énfasis en transparencia de
+redes, con independencia de plataforma de
+hardware, que permite un rápido desarrollo de
+aplicaciones. Con esta propuesta se facilita
+la interconexión de distintas plataformas de
+hardware, software, información y usuarios.
+
+Con base en esta plataforma se ha
+
+desarrollado una estrategia horizontal
+que integra productos que van desde
+sistemas operativos y herramientas mu
+
+de desarrollo, hasta las aplicaciones Microsoft"
+
+para usuario final. N ET
+.
+LI) nTroDUCCIÓN AMCROSOET.NET |
+
+
+--- PÁGINA 9 ---
+Framework .NET es la plataforma de desarrollo
+de código administrado de Microsoft. Está
+formado por una serie de herramientas y
+librerías con las que se puede crear todo
+tipo de aplicaciones, desde las tradicionales
+aplicaciones de escritorio, hasta aplicaciones para
+Xbox pasando por desarrollo web, desarrollo para
+Windows Store y Windows Phone, y aplicaciones
+de servidor con WCF,
+
+.NET Framework soporta completamente las
+
+«> características de la POO, también, el uso de
+
+i EN Herencia, Polimorfismo, Clases, propiedades,
+E | A métodos, eventos, constructores, etc.
+
+Í
+
+FRAMEWORK
+
+Ul
+
+--- PÁGINA 10 ---
+FRAMEWORK
+
+Características de Framework .NET
+
+Las aplicaciones desarrolladas para .NET
+se ejecutan dentro de .NET framework.
+Admite el paradigma de programación
+orientado a objetos en el que el usuario
+puede trabajar con diferentes lenguajes
+como CA, VB.NET para aplicaciones.
+Algunas características de .NET Framework
+son:
+
+INTRODUCCIÓN A MICROSOFT .NET
+
+)» Interoperabilidad de idiomas
+
+» Portátil
+
+» Seguridad de tipos
+
+» Compatibilidad con subprocesos
+múltiples administrados
+
+» Rendimiento
+
+» Ejecución en paralelo de idiomas
+
+) Sistema de tipos comunes
+
+» Cómputo paralelo
+
+» Dynamic Language Runtime
+
+) Gestión automática de la memoria
+
+» Independencia del idioma
+
+» Seguridad
+
+
+--- PÁGINA 11 ---
+FRAMEWORK
+
+Componentes principales de Framework .NET
+Este se compone de cuatro partes:
+Conjunto de bibliotecas de clases
+Grupo de lenguajes de programación
+
+Entorno ASP.NET
+NET Framework » Common Language Runtime o motor en
+tiempo de ejecución común para todos los
+EL.NET Framework proporciona 3 lenguajes .NET
+
+elementos principales:
+
+)» .Net Framework Class Library o biblioteca
+de clases base del .NET Framework
+
+» Colección de Frameworks de desarrollo
+
+INTRODUCCIÓN A MICROSOFT .NET
+
+
+--- PÁGINA 12 ---
+FRAMEWORK
+
+.NET Framework SDK
+ÁJe1qi7] Ssejo
+AJOMBUJBIH LIN"
+
+Arquitectura de .NET Framework
+
+BB? INTRODUCCIÓN A MICROSOFT NET
+
+--- PÁGINA 13 ---
+FRAMEWORK
+
+CLR gestiona la ejecución de las aplicaciones
+diseñadas para la plataforma .NET. Por eso
+el código de estas aplicaciones es llamado
+código gestionado. Al código no escrito para
+ser gestionado directamente en la plataforma
+NET se le llama código no gestionado.
+
+CLR garantiza la seguridad de los tipos de
+datos. Avala que no se produzcan errores en
+la conversión de tipos en la ejecución de una
+aplicación.
+
+INTRODUCCIÓN A MICROSOFT NET 104!
+
+
+--- PÁGINA 14 ---
+FRAMEWORK
+
+Lenguajes de Programación
+
+Microsoft .NET desarrolla activamente tres
+lenguajes de programación: Cif, FHf y Visual
+Basic (VB); es un error muy común, decir que
+C++ está dentro de .NET. El lenguaje C++ cuenta
+con su propio compilador, en el que C++ no
+puede entrar directamente a la plataforma
+.NET, ya que hay cosas que .NET no soporta.
+
+Por lo tanto, Microsoft creó C++/CLI, que es
+básicamente C++ con extensiones de Microsoft
+que le permiten escribir código dirigido a NET
+Framework, pero C++ no se incluye en .NET. En
+conclusión, los únicos lenguajes de .NET son
+CH, FH y VB.
+
+INTRODUCCIÓN A MICROSOFT .NET
+
+
+--- PÁGINA 15 ---
+FRAMEWORK
+
+CA es un lenguaje de programación simple,
+eficaz, moderno, orientado a objetos
+y seguridad de tipos, además incluye
+soporte para programación orientado a
+componentes, y mantiene sus raíces en la
+familia de lenguajes estilo C.
+
+FX es un lenguaje de programación
+funcional, consiste principalmente en definir
+tipos y funciones que son de tipo inferido
+y generalizadas automáticamente. Esto
+permite que su enfoque permanezca en
+el dominio del problema y manipule sus
+datos; ofrece interoperabilidad limpia con
+CH y bases de código existentes.
+
+INTRODUCCIÓN A MICROSOFT .NET
+
+
+--- PÁGINA 16 ---
+FRAMEWORK
+
+Visual Basic es un lenguaje accesible con
+una sintaxis simple para crear aplicaciones
+de tipo seguro y orientadas a objetos.
+Entre los lenguajes .NET, la sintaxis de
+VBesla más cercana al idioma normal,
+
+lo que a menudo facilita el trabajo a las
+personas sin experiencia en desarrollo de
+software.
+
+BB? INTRODUCCIÓN A MICROSOFT NET
+
+
+--- PÁGINA 17 ---
+ENTORNO DE DESARROLLO
+
+Interfaz de desarrollo
+.NET se instala directamente en el entorno
+de desarrollo de IDE Visual Studio, ya que
+este provee un modelo de programación
+simple, seguro y soporta herramientas
+potentes con ayuda de la distribución,
+empaquetado y soporte.
+
+INTRODUCCIÓN A MICROSOFT NET “10H!
+
+
+--- PÁGINA 18 ---
+FRAMEWORK
+
+Crear nuevo
+proyecto
+
+Administrar
+recursos
+Azures Program
+
+Debug”
+
+Agregar
+controles
+al Ul
+
+Ul
+
+Correr el Compartir
+
+código en
+
+Any CPU
+
+¡ram.Program + FgMain(stringl] args
+
+tion “Calculator
+
+E) Calculator
+
+» SPC CRE
+
+1o/0= Pa 3
+
+vivo
+
+Calculator
+
+Enviar
+documentos
+
+Administrar
+archivos,
+proyectos y
+soluciones
+
+Colaborar
+en proyectos
+de código en
+
+equipo
+
+
+--- PÁGINA 19 ---
+ENTORNO DE DESARROLLO
+
+En la imagen anterior se muestra Visual Studio
+con un plan abierto con las ventanas principales
+y su funcionalidad.
+
+En la parte superior derecha del Explorador
+de soluciones, se puede ver y regir los
+archivos de código y navegar por ellos. El
+Explorador de soluciones puede contribuir
+a ordenar el código, al agrupar los archivos
+en resoluciones y proyectos.
+
+Ul
+
+Help Search...
+
+Search Solution Explc
+6 Solution 'Calculator' (2 of 2 projects)
+4 8 [€] Calculator
+*Él Dependencies
+
+2 Imports
+
+>
+>
+» bin
+»
+
+obj
+EU App-config
+D C% Program.cs
+4 8 [€] CalculatorLibrary
+» “Él Dependencies
+
+Db 8 C% CalculatorLibrary.cs
+
+Solution Explorer  Git
+
+
+--- PÁGINA 20 ---
+Ul
+
+RAMEWORK
+
+La ventana central es donde se muestra el
+contenido del documento o codificación.
+Ahí, se puede editar código o diseñar una
+interfaz gráfica de cliente, como una
+ventana con botones y cuadros de escrito.
+
+En la parte inferior derecha de Git Changes (Cambios
+de Git), se puede hacer el seguimiento de recursos
+de trabajo y compartir código con otros usuarios por
+medio de tecnologías de control de variantes, como
+Git y GitHub.
+
+MET
+
+
+--- PÁGINA 21 ---
+ENTORNO DE DESARROLLO
+
+Elementos de la Plataforma de Ejecución Intermedia .NET
+
+El entorno de ejecución de Framework .NET es CLR (Common Language Runtime).
+Este gestiona la memoria, la seguridad, el control de errores, etc. Esto permite que
+varios lenguajes puedan interactuar entre sí.
+
+La plataforma .NET es denominada de ejecución intermedia. Justamente porque se
+
+ubica entre el sistema operativo y las aplicaciones finales con las que interactúan
+los usuarios, fungiendo como intermediaria entre ambos.
+
+Lenguajes de programación
+
+Librería de funcionalidad
+
+Microsoft.net
+
+Entornos de ejecución
+
+Elementos de la Plataforma de Ejecución Intermedia
+
+BB? INTRODUCCIÓN A MICROSOFT NET
+
+
+--- PÁGINA 22 ---
+ENTORNO DE DESARROLLO
+
+Common Language Runtime (CLR)
+
+Se trata de un programa de ejecución común a todos los lenguajes. Se encarga de
+leer el código generado por el compilador, y de iniciar su ejecución.
+
+El funcionamiento del CLR se da sobre el sistema operativo, para aislar su plataforma.
+Esto permite ejecutar aplicaciones .NET multiplataforma.
+
+Pava Pe ] ce | o* |.
+
+Operating Systems (OS)
+LI) inrroouccióNA MICROSOFT NET |
+
+
+--- PÁGINA 23 ---
+ENTORNO DE DESARROLLO
+
+La función principal de CLR es gestionar la
+ejecución de las aplicaciones diseñadas para
+la plataforma .NET. Por tal razón, al código
+de estas aplicaciones es llamado código
+gestionado, y al código no escrito para ser
+ejecutado directamente en la plataforma .NET
+se le suele llamar código no gestionado.
+
+CLR garantiza la seguridad de los tipos de
+datos, avalando que no se producen errores
+en la conversión de tipos en la ejecución de una
+aplicación.NET. Este aspecto y algunos otros
+son regulados por lo que se conoce el Common
+Type System (CTS).
+
+BB? INTRODUCCIÓN A MICROSOFT NET
+
+--- PÁGINA 24 ---
+ENTORNO DE DESARROLLO
+
+Código Fuente Código en Byte Código Nativo
+
+Compilador CVB.NET
+
+Compilador C++ CLR
++ CÓdigo Nativo
+
+Otros
+lenguajes
+.NET
+
+Otros compiladores
+
+Compilar Tiempo de ejecución
+Proceso Common Language Runtime
+
+INTRODUCCIÓN A MICROSOFT .NET
+
+
+--- PÁGINA 25 ---
+ENTORNO DE DESARROLLO
+
+Ul
+
+Microsoft Intermediate Language (MSIL)
+Representa el código objeto al que es
+transformado el código fuente, escrito en
+cualquiera de los lenguajes aceptados por .NET.
+Estos que luego van a ser compilados a nativo
+por el compilador JIT (Just In Time), que provee
+la CLR en tiempo de ejecución.
+
+
+--- PÁGINA 26 ---
+ENTORNO DE DESARROLLO
+
+La principal ventaja del MSIL es que facilita la ejecución multiplataforma y la
+integración entre lenguajes, al ser independiente de la CPU y proporcionar un formato
+común para el código máquina, generado por todos los compiladores que generan
+código para .NET.
+
+Sin embargo, dado que las CPUs no pueden ejecutar directamente MSIL, antes de
+ejecutarlo habrá que convertirlo al código nativo de la CPU sobre la que se va a
+ejecutar.
+
+Compilación
+
+Lenguaje
+Código fuente —— cb ae ——>
+
+Ejecución
+
+Código nativo t——— Compilador JIT
+INTRODUCCIÓN A MICROSOFT .NET
+
+
+--- PÁGINA 27 ---
+ENTORNO DE DESARROLLO
+
+Librería de Clase Base (BCL)
+
+.NET tiene un extenso grupo de estándares de
+bibliotecas de clases, llamadas bibliotecas de
+clases base (conjunto principal) o bibliotecas
+de clases de marco (conjunto completo).
+Estas bibliotecas se implementan para
+bastantes tipos, algoritmos y funcionalidades
+de utilidad en general y específicos de la
+aplicación. Tanto las bibliotecas comerciales,
+como las comunitarias, se fundamentan en las
+bibliotecas de clases de marco, lo cual otorga
+bibliotecas listas y simples de usar y para un
+extenso grupo de labores informáticas.
+
+INTRODUCCIÓN A MICROSOFT NET “10H!
+
+
+--- PÁGINA 28 ---
+ENTORNO DE DESARROLLO
+
+La Librería de Clase Base (BCL) es una librería incluida en el NET Framework, formada
+por cientos de tipos de datos que permiten acceder a los servicios ofrecidos por el
+CLR y a las funcionalidades más frecuentemente usadas para escribir programas.
+
+BCL otorga los tipos más ME
+primordiales y la funcionalidad a
+
+de más utilidad, y es la base
+de cada una de las otras
+
+bibliotecas de clases de .NET.
+
+El BCL tiene como fin proveer
+
+implementaciones en general,
+
+sin sesgos para ninguna carga
+
+de trabajo.
+
+Visual Studio
+
+Operating Systems (OS)
+
+INTRODUCCIÓN A MICROSOFT .NET
+
+
+--- PÁGINA 29 ---
+ENTORNO DE DESARROLLO
+
+Además, a partir de estas clases prefabricadas, el programador puede crear nuevas
+clases que, mediante herencia, extiendan su funcionalidad y se integren a la perfección
+con el resto de clases de la BCL. Por ejemplo, al implementar ciertas interfaces
+podemos crear nuevos tipos de colecciones que serán tratadas exactamente igual
+que cualquiera de las colecciones incluidas en la BCL.
+
+.NET FRAMEWORK .NET CORE XAMARIN
+
+2 Windows
+< Forms
+8 Android
+3 ASP.NET Core
+2
+|]
+8 A o
+3
+Infraestructura Común
+Compiladores Lenguajes Componentes de tiempo
+
+de ejecución
+
+INTRODUCCIÓN A MICROSOFT .NET
+
+
+--- PÁGINA 30 ---
+ENTORNO DE DESARROLLO
+
+Common Language Specification (CLS)
+
+A veces es necesario un código escrito en un lenguaje para acceder a otro lenguaje,
+pero los lenguajes de programación que tienen como objetivo CLR son diferentes
+entre sí, por ejemplo, C+* distingue entre mayúsculas y minúsculas, pero VB no.
+
+Esto puede causar un problema cuando accedemos a código escrito en un idioma
+desde otro idioma. Así que .NET ha creado CLS; es decir, especificación de lenguaje
+común.
+
+CLS define un conjunto mínimo
+de características que deben
+
+ser compatibles con todos los
+lenguajes destinados a CLR.
+
+INTRODUCCIÓN A MICROSOFT .NET
+
+
+--- PÁGINA 31 ---
+ENTORNO DE DESARROLLO
+
+CLR/CTS admite muchas funciones, pero
+eso no significa que todos los idiomas a
+los que se dirige CLR admitan todas estas
+funciones.
+Según el diagrama de Venn:
+CLR es un superconjunto de todos los
+idiomas que se dirigen a CLR.
+CH y VB son subconjuntos de CLR.
+CLS es un subconjunto mínimo
+imprescindible para todos los idiomas
+destinados a CLR.
+Además, algunas de las características
+son comunes en CH y VB, además de
+las características de CLS.
+
+CLR/CTS
+
+BB? INTRODUCCIÓN A MICROSOFT NET
+
+--- PÁGINA 32 ---
+ENTORNO DE DESARROLLO
+
+Atributo conforme
+
+Antes de comenzar con cualquier programa en
+CLS, existe un atributo útil que debe incluirse
+al escribir el código conforme a CLS.
+
+Si se establece el atributo CLS Compliant en
+verdadero, da una advertencia de tiempo de
+compilación cuando escribe cualquier miembro
+público o protegido que no sea CLSCompliant.
+Dará una advertencia solo para los miembros
+públicos y protegidos, no para los privados,
+ya que solo se puede acceder a los miembros
+privados dentro de esa clase.
+
+INTRODUCCIÓN A MICROSOFT NET 104!
+
+
+--- PÁGINA 33 ---
+ENTORNO DE DESARROLLO
+
+Ejemplo: CH distingue entre mayúsculas y minúsculas, pero VB no; es por eso que
+los miembros públicos que difieren según el caso le darán una advertencia.
+
+OL. | using System;
+
+02.
+
+03. | [assembly;: CLSCompliant(true)]
+04. | namespace CLSExanmples
+
+05, 4
+
+b6.
+
+07. public class CaseSensitiveExanmple
+
+OB. í
+
+yo. static void Mainístrinmg[] args)
+
+10. í
+
+1.
+
+12, )
+
+13.
+
+la, public void XYZ()
+
+15. 1
+
+16. Console .Writeline("Inside XxYZ");
+17. )
+
+18. public void Xyz()
+
+19. 1
+
+20. Console.Writeline("Inside Xyz”);
+21. )
+
+22. 3
+
+23. |)
+
+Al ejecutar el código anterior, recibirá una advertencia como: Identificador
+'CaseSensitiveExample.Xyz()' que difiere solo en caso de que no cumpla con CLS.
+
+INTRODUCCIÓN A MICROSOFT .NET
+
+
+--- PÁGINA 34 ---
+ENTORNO DE DESARROLLO
+
+Common Type System (CTS)
+
+Estandariza los tipos de datos de todos los
+lenguajes de programación que utilizan .NET, en
+un tipo de datos común para una comunicación
+fácil y fluida entre estos lenguajes .NET.
+
+El sistema de tipo común realiza las siguientes
+funciones:
+
+Establece un marco que permite la integración
+entre lenguajes, la seguridad de tipos y la
+ejecución de código de alto rendimiento.
+
+Proporciona un modelo orientado a objetos
+que admite la implementación completa de
+muchos lenguajes de programación.
+
+INTRODUCCIÓN A MICROSOFT NET 104!
+
+
+--- PÁGINA 35 ---
+ENTORNO DE DESARROLLO
+
+El Sistema de Tipo Común (CTS) admite dos
+categorías generales de tipos:
+
+1. Tipos de valor
+
+Los tipos de valor contienen directamente sus
+datos, y las instancias de los tipos de valor
+se asignan en la pila o se asignan en línea en
+una estructura. Los tipos de valor pueden ser
+tipos integrados, definidos por el usuario o de
+enumeración.
+
+2. Tipos de referencia
+
+Los tipos de referencia almacenan una
+referencia a la dirección de memoria del valor y
+se asignan en el montón. Los tipos de referencia
+pueden ser tipos autodescriptivos, tipos de
+punteros o tipos de interfaz.
+
+BB? INTRODUCCIÓN A MICROSOFT NET
+
+
+--- PÁGINA 36 ---
+ENTORNO DE DESARROLLO
+
+CTS además define cada una de las otras características de los tipos, como
+modificadores de ingreso, cuáles son los miembros de tipo válidos, cómo funciona
+la herencia y la sobrecarga, etcétera.
+
+Modificador Código desde el que es accesible el miembro
+
+public Cualquier código
+
+private Código del mismo tipo de dato
+
+Family Código del mismo tipo de dato o de hijos de este
+Assembly Código del mismo emsamblado
+
+family and assembly Código del mismo tipo o de hijos de este ubicado en el
+
+mismo ensamblado
+
+family and assembly Código del mismo tipo o de hijos de este, o código
+
+ubicado en el mismo ensamblado
+INTRODUCCIÓN A MICROSOFT .NET
+
+
+--- PÁGINA 37 ---
+FORO UNIDAD1 MM | | | |
+
+Con los conocimientos que aprendiste en esta unidad, |
+responde la siguiente pregunta:
+
+¿De qué manera podrías aprovechar el potencial que ofrece
+CH para crear sistemas completos e innovadores? |
+
+Presiona el botón para participar en el foro. S5 |
+
+INTRODUCCIÓN A MICROSOFT .NET
+
+
+--- PÁGINA 38 ---
+LECTURAS PARA
+REFORZAR LA UNIDAD
+
+INTRODUCCIÓN A MICROSOFT .NET “104
+
+--- PÁGINA 39 ---
+El lenguaje CH toma las mejores características
+de lenguajes preexistentes como Visual Basic,
+Java o C++ y las combina en uno solo. El hecho
+de ser relativamente reciente no implica que sea
+inmaduro, pues Microsoft ha escrito la mayor parte
+de la BCL usándolo, por lo que su compilador es
+el más depurado y optimizado de los incluidos
+en el NET Framework SDK.
+
+EL.NET Framework soluciona los problemas
+mediante el CLR, que es independiente del
+lenguaje, de la plataforma y del estándar, y
+con el uso del estándar del mercado (XML). La
+independencia del lenguaje de .NET permite a
+los desarrolladores generar una aplicación en
+cualquier lenguaje basado en .NET, y saber que
+la aplicación web servirá en cualquier cliente que
+soporte.NET.
+
+INTRODUCCIÓN A MICROSOFT .NET
+
+CONCLUSIÓN
+
+--- PÁGINA 40 ---
+» ME
+
+IFELICIDADES!
+
+Acabas de concluir la primera unidad de tu curso
+Lenguajes de Programación lI!. Te invitamos a
+finalizar este esfuerzo realizando el examen parcial
+correspondiente. Para ello, debes regresar a la
+pantalla principal y dar clic en Presentar examen.
+
+--- PÁGINA 41 ---
+UNIDAD
+
+APLICACIONES -
+
+
+--- PÁGINA 42 ---
+> TEMARIO
+2.1
+
+APLICACIONES
+DE CONSOLA
+
+a,
+
+y
+
+a
+”
+
+e
+
+>
+2.2
+
+APLICACIONES
+DE ESCRITORIO
+
+
+--- PÁGINA 43 ---
+INTRODUCCIÓN
+
+En esta segunda unidad, el estudiante aprenderá a
+diferenciar entre una aplicación de consola y una de
+escritorio, además podrá realizar una aplicación sencilla
+para ejecutar en consola con un “Hello World' y podrá
+diseñar un formulario básico para una aplicación de
+escritorio, además conocerá los elementos que lo
+conforman y cómo configurarlos de acuerdo con lo que
+se necesita.
+
+--- PÁGINA 44 ---
+El alumno será capaz El alumno será capaz de realizar un
+de programar una fácil formulario sencillo y sus partes para
+aplicación para consola. una aplicación en escritorio.
+
+
+--- PÁGINA 45 ---
+TE INVITAMOS A VER EL SIGUIENTE VIDEO:
+
+--- PÁGINA 46 ---
+APLICACIONES DE CONSOLA
+
+¿Qué es una aplicación en consola?
+En el contexto de C+f, es una aplicación que toma entradas y muestra la salida en una
+
+consola de línea de comandos con acceso a tres flujos básicos: entrada estándar,
+salida estándar y error estándar.
+
+La aplicación de consola está
+diseñada principalmente por las
+siguientes razones:
+
+» Proporciona una interfaz de usuario simple
+para aplicaciones que requieren poca o
+ninguna interacción del usuario, como
+ejemplos para aprender funciones del
+
+O Las aplicaciones de consola no lenguaje CH y programas de utilidad de línea
+tienen ninguna interfaz gráfica de comandos.
+de usuario, tendrán interfaces
+n caracteres.
+basadas en caracteres » Pruebas automatizadas, que pueden
+
+reutilizar recursos de implementación de
+automatización.
+
+U2 AT
+
+--- PÁGINA 47 ---
+APLICACIONES DE CONSOLA
+
+No tiene ninguna interfaz gráfica de usuario. Las
+aplicaciones de consola tendrán una interfaz basada
+en Caracteres. Para trabajar con aplicaciones de
+consola en .NET, se debe usar una clase llamada
+Console que está disponible dentro del espacio de
+nombres System, que es el espacio de nombres raíz.
+
+Console Application in CH:
+
+Para leer una línea de texto desde la ventana de la
+consola, utiliza el método Console.ReadLine().
+Esto leerá un flujo de entrada desde la ventana de
+la consola y devolverá la cadena de entrada cuando
+el usuario presione la tecla Intro.
+
+AA U2
+
+
+--- PÁGINA 48 ---
+APLICACIONES DE CONSOLA
+
+U2
+
+También hay dos métodos para escribir en la consola, que se utilizan ampliamente:
+
+Console.Write(): escribe el valor especificado en la ventana de la consola.
+Console.WriteLine(): hace lo mismo, pero agrega un carácter de nueva línea al
+final de la salida.
+
+FEx]file:///C/Users/Pro
+
+Enter Tuvo Integers
+68
+
+40
+Sum 0£ 68 And 48 Is 108
+
+
+--- PÁGINA 49 ---
+S DE CONSOLA
+
+APLICACION
+
+vu
+
+Ejemplo: El siguiente código C+.NET le permite al usuario ingresar una línea de texto y
+muestra esa cadena de texto s = Console.ReadLine( );
+Consola.WriteLine(s);
+
+using System;
+namespace LlamarPrograma
+t
+
+class Program
+
+1
+
+static void Main(string[] args)
+1
+
+int A, B, SUM;
+
+Console .WriteLine (“Ingresa dos enteros”);
+A = int.Parse(Console.Readline());
+
+B = int.Parse(Console.ReadLine());
+
+SUM = A+ B;
+
+Console.WriteLine (“La suma de (0) Y (1) es (2)", A, B, SUM);
+Console.Read();// Para evitar que la consola desaparezca
+
++
+
+U2 AT
+
+
+--- PÁGINA 50 ---
+APLICACIONES DE CONSOLA
+
+¡Hello World! — Primer programa
+
+Vamos a crear una aplicación basada en consola C+f.
+
+Cuando iniciamos un nuevo proyecto en Visual Studio para CH veremos una pantalla
+como la siguiente:
+
+Program.cs X
+
+$$ ConsoleApplicationi.Program -
+
+Jusing System;
+using System.Collections.Generic;
+using System.Linq;
+using System. Text;
+
+-]namespace ConsoleApplication1
+
+1
+=j class Program
+t
+Ss static void Main(string[] args)
+t
+j
+J
+y
+
+APLICACIONES
+
+
+--- PÁGINA 51 ---
+APLICACIONES DE CONSOLA
+
+Para el ejemplo del programa que vamos
+a ver, simplemente vamos a imprimir un
+“¡Hello World!” de mensaje. Vamos a utilizar
+el comando en el bloque de código principal
+(Static Void Main):
+
+(“Hello World!”);
+
+APLICACIONES
+
+--- PÁGINA 52 ---
+APLICACIONES DE CONSOLA
+
+Y el código fuente quedaría así:
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+namespace ConsoleApplicationl
+[
+
+class Program
+
+[
+
+static void Main(string[1] args)
+
+Console.WriteLine(“Hello, world!”);
+)
+)
+)
+
+APLICACIONES
+
+
+--- PÁGINA 53 ---
+APLICACIONES DE CONSOLA
+
+Después de ingresar el comando, el siguiente paso es ejecutar el programa. Puede
+ejecutar el programa usando Ctrl+F5. Luego, Visual Studio mantendrá abierta la
+ventana de la consola, hasta que presione una tecla. Obtendrá el aspecto de la
+pantalla como la siguiente imagen.
+
+EX Ci Windows|system321cmd.exe = (= [mE]
+
+Hello, vorld*
+Press any key to continue
+
+U2 AT
+
+--- PÁGINA 54 ---
+APLICACIONES DE CONSOLA
+
+U2
+
+Aplicaciones de escritorio
+
+En un escenario de la vida real, el equipo normalmente
+usa Visual Studio y CH para crear Windows Forms
+O aplicaciones basadas en la Web.
+
+Una aplicación de formulario de Windows es
+una aplicación diseñada para ejecutarse en una
+computadora. No se ejecutará en el navegador web
+porque entonces se convierte en una aplicación web.
+
+
+--- PÁGINA 55 ---
+APLICACIONES DE ESCRITORIO
+
+Conceptos básicos de Windows Forms
+
+Una aplicación de Windows Forms es aquella que se ejecuta en la computadora
+de escritorio. Una aplicación de formularios de Windows normalmente tiene una
+colección de controles como etiquetas, cuadros de texto, cuadros de lista, etc.
+Veamos un ejemplo de una aplicación de formulario de Windows simple C+t. Muestra
+una pantalla de inicio de sesión simple, a la que puede acceder el usuario. El usuario
+ingresa las credenciales requeridas y luego da clic en el botón Iniciar sesión para
+continuar.
+
+U2 AT
+
+--- PÁGINA 56 ---
+APLICACIONES DE ESCRITORIO
+
+Esta es una colección de controles de
+etiquetas que normalmente se usan
+para describir controles adyacentes.
+Entonces, en nuestro caso, tenemos 2
+cuadros de texto y las etiquetas se usan
+para decirle al usuario que un cuadro
+de texto es para ingresar el nombre de
+usuario y el otro para la contraseña.
+
+Los 2 cuadros de texto se utilizan para
+contener el nombre de usuario y la
+contraseña que ingresará el usuario.
+
+APLICACIONES
+
+--- PÁGINA 57 ---
+APLICACIONES DE ESCRITORIO
+
+Por último, tenemos el botón de control.
+El control de botón normalmente
+tendrá algún código adjunto para
+realizar un determinado conjunto de
+acciones. Entonces, por ejemplo, enel
+caso anterior, podríamos hacer que el
+botón realice una acción de validación
+del nombre de usuario y la contraseña
+que ingresa el usuario.
+
+U2 AT
+
+--- PÁGINA 58 ---
+APLICACIONES DE ESCRITORIO
+
+¡Hola Mundo!
+Ahora veamos un ejemplo de cómo podemos implementar una aplicación simple
+de 'Hola Mundo' en Visual Studio.
+
+Paso 1) Crear un nuevo proyecto en Visual Studio. Después de iniciar Visual Studio,
+debes elegir la opción de menú Nuevo->Proyecto.
+
+Editar Ver  Git Proyecto  Depurar Analizar Herramienta x es Ventana Ayuda Buscar (Ctrl+Q)
+
+Nuevo "E Proyect Ctrl+Mayús.+N
+
+Abrir > BA Repo
+Clonar repo <r DA Ctrl+N
+
+Proyecto a partir de código existente...
+
+Paso 2) El siguiente paso es elegir el tipo de proyecto, que en este caso es una
+aplicación de Windows Forms.
+
+Crear un proyecto
+
+Plantillas de proyecto recientes
+
+1 Ap
+
+U2
+
+
+--- PÁGINA 59 ---
+U2
+
+APLICACIONES DE ESCRITORIO
+
+Paso 3) Aquí vamos a configurar nuestro proyecto poniendo el nombre, en este caso
+es HolaMundo, indicamos la ubicación donde vamos a guardar nuestro proyecto,
+y damos clic en siguiente.
+
+Configure su nuevo proyecto
+
+Aplicación de Windows Forms Cs Windows Escritorio
+
+Nombre del proyecto
+
+HolaMundo
+Ubicación
+
+CalUsersiNora Valdezisourcelrepos
+Nombre de la solución ()
+
+HolaMundo
+
+Colocar la solución y el proyecto en el mismo directorio
+
+
+--- PÁGINA 60 ---
+APLICACION
+
+U2
+
+ES D
+
+E ESC
+
+RITO
+
+RIO
+
+Y habremos creado el proyecto. Podrás ver la siguiente interfaz:
+
+Debug >
+
+Any CPU
+
+Explorador de soluciones
+
+Formi System.
+
+Texto asociado al control.
+
+%_Agregar al control de código fuente +
+
+9 Seleccionar repositorio «
+
+
+--- PÁGINA 61 ---
+APLICACIONES DE ESCRITORIO
+
+Diseñador de formularios en Visual
+Studio. En este Diseñador de formularios
+es donde comenzarás a crear tu
+aplicación de Windows Forms.
+
+Explorador de soluciones tiene 2 archivos
+de proyecto: uno es el formulario llamado
+HolaMundo.cs., que contiene todo el
+código para la aplicación de Windows
+Forms. El programa principal llamado
+
+Buscar en Explorador nes (Ctrl+")
+
+Program.cs es un archivo de código cl di
+predeterminado que se crea cuando » 28 Dependencias
+
+se establece una nueva aplicación en 4 [E Formi.s
+
+Visual Studio. Este código contendrá el is
+código de inicio de la aplicación en su E io
+
+conjunto.
+
+U2 AS
+
+--- PÁGINA 62 ---
+U2
+
+APLICACIONES DE ESCRITORIO
+
+Cuadro de herramientas
+Búsqueda en el Cuadro de herramientas
+4 Todo Windows Forms
+Puntero
+?  BackgroundWorker
+
+BindingSource
+
+22) Button
+En el lado izquierdo de Visual Studio, se |
+encuentra la caja o cuadro de herramientas. a
+Este contiene todos los controles que se pueden E
+agregar a Windows Forms. Los controles, = einer
+como un cuadro de texto o una etiqueta, son AS
+algunos de los controles que se pueden agregar 3 DomsinUpDown
+a Windows Forms solamente arrastrando el EN
+elemento al diseñador. E FlowLayoutPanel
+
+]  FolderBrowserDialog
+A continuación se muestra una imagen de ent
+cómo se ve el cuadro de herramientas: Aarpaede
+
+HScrollBar
+I ImageList
+
+Label
+
+LinkLabel
+
+ListBox
+
+; N
+-  MaskedTextBox
+
+
+--- PÁGINA 63 ---
+APLICACIONES DE ESCRITORIO
+
+U2
+
+Interfaz
+
+Ahora que ya vimos las partes del IDE de Visual Studio, realizaremos la pantalla
+del “Hola Mundo”.
+
+Entonces agregaremos una etiqueta al formulario que mostrará “Hola Mundo”. En
+el cuadro de herramientas debes elegir el control Etiqueta o Label y simplemente
+arrastrarlo al Formulario.
+
+Una vez que arrastremos la etiqueta al formulario, podrás ver la etiqueta añadida
+en el formulario, como se muestra a continuación.
+
+FontDialog
+
+GroupBox
+HelpProvider
+HScrollBar
+Imagelist
+Label
+LinkLabel
+
+a  ListBox
+
+sa ListView
+
+().  MaskedTextBox
+MenusStrip
+
+2]  MonthCalendar
+
+
+--- PÁGINA 64 ---
+APLICACIONES DE ESCRITORIO
+
+U2
+
+El siguiente paso esiralas propiedades del
+control y cambiar el texto a 'Hola Mundo..
+
+Para ir a las propiedades de un control,
+debes hacer clic con el botón derecho
+en el control y elegir la opción de menú
+Propiedades.
+
+El panel de propiedades también aparece
+en Visual Studio. Entonces, para el control
+de label, en el control de propiedades ve a
+la sección Texto e ingresa “Hola Mundo”.
+
+Cada Control tiene un conjunto de
+propiedades que describen el control.
+
+ImagelList
+RightToLeft
+Text
+TextAlign
+
+UselMnemonic
+
+UseWaitCursor
+
+(none)
+
+No
+
+¡Hola Mundo!
+TopLeft
+
+True
+
+ES
+
+
+--- PÁGINA 65 ---
+APLICACIONES DE ESCRITORIO
+
+Ahora que ya hemos modificado el label, vamos a correr el programa, y damos clic
+en el botón de “play” que tiene el nombre del proyecto en la parte superior:
+
+En la salida, puedes ver que se muestra Windows Form. También puedes ver que
+se muestra 'Hola Mundo' en el formulario.
+
+Prueba Analizar Herramientas
+
++ |) HolaMundo + [> -
+
+U2 AS
+
+--- PÁGINA 66 ---
+APLICACIONES DE ESCRITORIO
+
+Adición de controles a un formulario
+Ya vimos cómo agregar un control
+a un formulario, cuando agregamos
+
+el control de etiqueta en la sección ) La alternativa para que el usuario ingrese
+anterior para mostrar “Hola Mundo”. el nombre y la dirección.
+
+Ahora veamos los otros controles » Una opción para elegir la ciudad en la
+disponibles para los formularios de que reside el usuario.
+
+Windows y veamos algunas de sus
+propiedades comunes.
+
+» La posibilidad para que el usuario ingrese
+una opción para el género.
+
+En nuestra aplicación de formulario
+de Windows en ejemplos de CH,
+crearemos un formulario que tendrá
+la siguiente funcionalidad.
+
+U2 AT
+
+--- PÁGINA 67 ---
+APLICACIONES DE ESCRITORIO
+
+Date TimePicker
+
+DomainUpDown
+
+Cuadro de grupo SH FlowlayoutPanel
+
+Un cuadro de grupo se utiliza para agrupar ¡Ra
+controles lógicos en una sección. Dentro del 5 e
+cuadro de texto, estarán los detalles de una il HepProvide [AA
+
+HScrollBar
+
+persona, por lo que es importante separar
+estos detalles en una sección separada en el
+formulario. Para este propósito, puede tener
+un cuadro de grupo.
+
+En la ventana de propiedades vamos a cambiar
+el texto por “Detalles del Usuario” y se verá de A
+la siguiente manera:
+
+"E Forml
+
+U2 AT
+
+--- PÁGINA 68 ---
+APLICACIONES DE ESCRITORIO
+
+Control de etiquetas
+
+Se utiliza para mostrar un texto o un mensaje al
+usuario en el formulario. Normalmente se usa
+junto con otros controles. La etiqueta indica al
+usuario lo que debe llenar en el cuadro de texto.
+
+Vamos a agregar dos etiquetas, una para indicar
+el nombre y otra para la dirección.
+
+U2 AT
+
+HelpProvider
+
+HScrollBar
+
+ImageList
+
+Label
+LinkLabel
+
+E Form
+Detalles del Usuario
+
+Nombre:
+
+Dirección:
+
+
+--- PÁGINA 69 ---
+APLICACIONES DE ESCRITORIO
+
+Caja de texto » Toe
+Se utiliza un cuadro de texto para permitir ys
+que un usuario ingrese algún texto en la ui uc
+
+aplicación de Windows en C+.
+
+"E Form!
+
+Añadiremos 2 cuadros de texto al
+formulario, uno para el nombre y otro para
+la dirección a introducir por el usuario. Nombre:
+
+Detalles del Usuario
+
+Dirección:
+
+Cuando los hayamos agregado, vamos
+a la ventana de propiedades de cada
+uno y le cambiamos el nombre para que
+
+sean más identificables, por ejemplo (Name) taNombre
+txtNombre y txtDireccion.
+
+U2 AT
+
+--- PÁGINA 70 ---
+APLICACIONES DE ESCRITORIO
+
+Cuadro de lista
+
+Un cuadro de lista se utiliza para mostrar una lista de elementos en el formulario de
+Windows. Agregaremos un cuadro de lista al formulario para almacenar algunas
+ubicaciones de ciudad.
+
+Una vez que se haya agregado el cuadro de lista, ve a la ventana de propiedades
+haciendo clic en el control del cuadro de lista.
+
+Label
+LinkLabel
+ListBox
+
+ListView
+
+MenusStrip
+
+U2 AT
+
+--- PÁGINA 71 ---
+APLICACIONES DE ESCRITORIO
+
+U2
+
+Cambia la propiedad del control de cuadro Listbox. En nuestro caso, hemos
+cambiado esto a “Ciudad”.
+
+Haz clic en la propiedad Items. Podemos agregar diferentes elementos que
+aparezcan en el cuadro de lista. En nuestro caso, hemos seleccionado artículos
+de “colección”.
+
+En el Editor de colecciones
+de cadenas que aparece,
+ingresa los nombres de
+las ciudades. En nuestro
+caso, ingresamos CDMX,
+Monterrey y Guadalajara.
+Y clic en aceptar.
+
+Nombre
+
+TCiudsd
+
+--- PÁGINA 72 ---
+APLICACIONES DE ESCRITORIO
+
+Botón de radio
+
+Se utiliza para mostrar una lista de elementos : PropestyGrid
+que el usuario puede elegir. Agregaremos dos a RadioButton
+j j j > 3  RichTextBox
+radios button para las opciones masculino/ ma Ri es .. HEEES
+
+femenino.
+
+Container
+
+Luego hacemos clic en propiedades:
+Cambia la propiedad de texto de ambos
+= Controles de radio. En propiedades cambia (o-J/--]653a |
+el texto a masculino de un botón de opción,
+y a femenino el del otro.
+Cambia la propiedad de nombre de ambos O Masculino
+«Controles de radio. El nombre a 'hombre' de
+un botón de opción y a 'mujer' para el otro.
+
+O Femenino
+
+U2 AT
+
+--- PÁGINA 73 ---
+APLICACIONES DE ESCRITORIO
+
+Botón
+
+Se utiliza un botón para permitir que el usuario
+haga clic, y luego inicia el procesamiento del
+formulario. Agregaremos un botón simple
+llamado “Enviar”, que se utiliza para enviar toda
+la información en el formulario:
+
+h
+P
+
+BindingSource
+
+EJE”
+
+Button
+
+CheckBox
+
+CheckedListBox
+
+E
+
+y E
+Vd 4 111
+
+ColorDialog
+
+Cambia la propiedad de texto del control
+
+. de botón. En propiedades cambia el texto
+a “enviar”.
+
+Enviar
+
+Cambia la propiedad de nombre del control
+sa 'btnEnviar' en name.
+
+U2 AT
+
+--- PÁGINA 74 ---
+APLICACIONES DE ESCRITORIO
+
+Algo así debería de verse el cascarón del formulario:
+
+Form1.cs [Diseño]*
+
+«2 Formulario
+Detalles del Usuario
+
+Nombre:
+
+Dirección:
+
+Depurar
+
+subproceso 8x6488
+ubproceso fx3ade
+subproceso €;
+
+subproceso 8x4c5
+subproceso 8x67ac
+
+x
+
+código € (0x8)
+código 8 (6x8).
+código 8 (8x8)
+código O (0x0)
+código 8 (exe
+
+programa *[14016] ndo.exe* terminó
+
+APLICACIONES
+
+Femenino
+
+23 o.-=0g0
+Buscar en Explorador de soluciones (Ctrl+)
+Solución "HolaMundo” (1 de 1 proyecto)
+“ *) HolaMundo
+D 86 Dependencias
+4 [E Fomi.cs
+Forml.Designer.cs
+ Formi
+
+» Program.cs
+
+Explorador de soluciones
+
+btnEnviar System.Windows.Forms.Form
+
+5 Pp
+
+Backgroundimage
+BackgroundimageLayou Tile
+
+Cursor Default
+
+Font Segoe Ul; 9pt
+ForeColor ControlText
+FormBorderStyle Sizable
+RightToLeft No
+RightToLeftLayout ES
+
+Text Formulario
+UselWaitCursor False
+
+Comportamiento
+
+AllowDrop False
+
+Text
+Texto asociado al control.
+
+
+--- PÁGINA 75 ---
+APLICACIONES DE ESCRITORIO
+
+U2
+
+Luego lo ejecutamos, y con esto tenemos una aplicación de escritorio, aunque aun
+no puede realizar ninguna acción, ya que solo creamos lo que es la interfaz.
+
+Detalles del Usuario
+
+Nombre: María Juliana Márquez O Masculino
+
+Dirección: Calle Roble *492 col. Sauces O Femenino
+
+CDMX
+AA
+
+Guadalajara
+
+Enviar
+
+
+--- PÁGINA 76 ---
+ACTIVIDAD INTEGRADORA 1
+
+Te invitamos a realizar la siguiente actividad.
+
+Presiona el botón para descargar la actividad.
+
+Presiona el botón para entregar la actividad.
+
+Bj
+
+APLICACIONES
+
+--- PÁGINA 77 ---
+LECTURAS PARA
+REFORZAR LA UNIDAD
+
+APLICACIONES 1 B%4
+
+--- PÁGINA 78 ---
+Visual CH ofrece acceso a un extenso grupo de
+tipos incluidos basados en el sistema de tipos =
+habituales, asícomo en la librería de clases de NET CO Ñ C LU S 10 Ñ
+Framework. Al igual que con todos los idiomas
+orientados a objetos, en CH aprovecha los tipos
+incluidos y las bibliotecas de clases para producir
+nuevos tipos para sus aplicaciones. Al exponer
+sus nuevos tipos para el consumo de otros, sus
+tipos tienen que consumar con la explicación
+de lenguaje común (CLS) para maximizar su
+reutilización por los desarrolladores que utilizan
+otros idiomas de programación.
+
+APLICACIONES
+
+
+--- PÁGINA 79 ---
+» ME -
+
+¡FELICIDADES!
+Acabas de concluir la segunda unidad de tu curso
+Lenguajes de Programación lll. Te invitamos a
+> ( finalizar este esfuerzo realizando el examen parcial
+correspondiente. Para ello, debes regresar a la
+pantalla principal y dar clic en Presentar examen.
+
+APLICACIONES
+
+
+--- PÁGINA 80 ---
+
+--- PÁGINA 81 ---
+> TEMARIO
+
+3.1
+FORMULARIOS
+
+>
+
+3.2.
+
+CONTROLES
+Y MENÚS
+
+
+--- PÁGINA 82 ---
+INTRODUCCIÓN
+
+En esta tercera unidad, el estudiante aprenderá acerca
+de Windows Forms, el cual se utiliza para mostrar
+componentes de interfaz fáciles de usar para que
+puedan interactuar con la computadora en código C+.
+De hecho, la mayoría de las ventanas de interfaz en
+el sistema operativo Microsoft Windows se crean con
+Windows Forms. Esta es la razón por la que Windows
+Forms es parte importante de la programación .NET.
+
+--- PÁGINA 83 ---
+El alumno será capaz de realizar
+una interfaz de un formulario
+utilizando los controles.
+
+Sy
+
+El alumno será capaz de reconocer
+los controles que maneja Windows
+Form para la creación de interfaces.
+
+
+--- PÁGINA 84 ---
+TE INVITAMOS A VER EL SIGUIENTE VIDEO:
+
+--- PÁGINA 85 ---
+U3
+
+FORMULARIOS
+
+Windows Forms
+
+La biblioteca de clases de interfaz
+gráfica de usuario (GUI) se
+incluye en .NET Framework, y su
+objetivo principal es proporcionar
+una interfaz más sencilla para
+desarrollar las aplicaciones para
+escritorio, tableta y PC. También
+se denomina WinForms, y las
+aplicaciones que se desarrollan
+utilizando WinForms se conocen
+como aplicaciones que se
+ejecutan en la computadora de
+escritorio.
+
+
+--- PÁGINA 86 ---
+FORMULARIOS
+
+La configuración de la aplicación es otra característica
+de Windows Forms para crear, almacenar y mantener
+información del estado de tiempo de ejecución en
+un formulario XML, que se puede Usar para recuperar
+la configuración preferida del usuario, como las
+posiciones de la barra de herramientas y las listas
+usadas más recientemente. Estos ajustes se pueden
+reutilizar en una aplicación futura.
+
+DISEÑO DE INTERFAZ DE USUARIO
+
+--- PÁGINA 87 ---
+FORMULARIOS
+
+Algunas de las mejores prácticas para crear aplicaciones de Windows Forms incluyen:
+
+) Se pueden ampliar, mediante herencia, para diseñar un marco de aplicación que
+pueda proporcionar un alto nivel de abstracción y reutilización de código.
+
+» Los formularios deben ser compactos, con controles limitados a un tamaño que
+pueda ofrecer una funcionalidad mínima.
+
+» Los formularios se pueden dividir en fragmentos empaquetados en ensamblajes,
+que se pueden actualizar automáticamente, y se pueden administrar.
+
+» El diseño de la aplicación, para que no tenga estado, proporciona escalabilidad
+y flexibilidad con facilidad para la depuración y el mantenimiento.
+
+) Las aplicaciones de Windows Forms deben diseñarse según el nivel de confianza
+requerido.
+
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+
+--- PÁGINA 88 ---
+FORMULARIOS
+
+En la unidad pasada aprendiste a utilizar las
+herramientas más básicas para la creación de un
+formulario sencillo. En esta unidad vamos a crear
+un formulario un poco más complejo utilizando
+más tipos de herramientas que, a su vez, le darán
+funcionalidad.
+
+Crearemos un formulario médico de la enfermería
+escolar de una universidad donde se pedirán los
+siguientes datos:
+
+Estos a su vez se dividirán en tres cuadros: datos
+del paciente, datos académicos y datos médicos.
+
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+Nombre del paciente
+
+Edad
+
+Número de teléfono
+
+Género
+
+Domicilio
+
+Carrera
+
+Semestre
+
+Grupo
+
+Padecimiento
+Nombre del médico
+Medicamento
+
+Fecha
+
+
+--- PÁGINA 89 ---
+FORMULARIOS
+
+Vamos a comenzar creando un nuevo proyecto en Visual Studio llamado
+FormularioEnfermeria, en Archivo >> Nuevo >> Proyecto.
+
+Después seleccionamos Aplicación de Windows Forms con la opción de .NET
+Framework.
+
+Y lo nombramos como FormularioEnfermeria.
+
+Proyecto Cul+Mayús.+N Configure su nuevo proyecto
+
+» sr
+
+Ns Aplicación de Windows Forms (.NET Framework) “Windows
+
+ml Aplicación de Windows Forms
+Plantilla de proyecto para crear una aplicación de Windows Forms (WinForms) de NET.
+
+ca Windows Escritorio
+a] Aplicación de Windows Forms (NET Framework)
+Proyecto para crear una aplicación con una interfaz de usuario de Windows Forms (WinForms)
+
+1d Windows Escritorio
+| Aplicación WPF
+m1 Proyecto para crear una aplicación WPF de NET,
+
+ce Windows Escritorio
+
+
+--- PÁGINA 90 ---
+FORMULARIOS
+
+Una vez creado el proyecto, vamos a darle forma
+anuestro formulario. Agregamos un label a modo
+de título, que diga “Formulario Enfermería” y le
+damos estilo. Desde propiedades, en Font se
+puede cambiar la fuente y el grosor.
+
+Formulario Enfermería
+o
+
+Después agregamos la primera sección del
+formulario, que pertenece a datos personales:
+nombre del paciente, edad, número de teléfono,
+género y domicilio.
+
+Para delimitar la sección, agregaremos un
+groupBox y lo nombraremos datos personales,
+con un fondo color gris y la fuente en Calibri 12
+en negritas; debería quedar algo así:
+
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+
+--- PÁGINA 91 ---
+FORMULARIOS
+
+Una vez añadido el primer groupbox, vamos a agregar el resto de datos con el label
+(etiqueta) para indicar qué ingresar en cada punto.
+
+Veamos qué tipo de herramienta se utiliza para ingresar los datos en cada punto:
+O Nombre de paciente: text box
+O Edad: text box
+O Número de teléfono: text box
+
+O Género: 2 radio button, uno indicará masculino y el otro femenino
+O Domicilio: text box
+
+Debería quedar como la siguiente imagen:
+
+Datos del Paciente
+Nombre del paciente
+
+Edad
+
+Número de teléfono
+
+Género O Masculino O Femenino
+
+Domicilio
+
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+
+--- PÁGINA 92 ---
+FORMULARIOS
+
+El siguiente groupbox que vamos a realizar es el de datos académicos. En este
+agregamos otro groupbox y cambiamos el título por datos académicos.
+
+Se puede cambiar el color de este en la sección de apariencia en Backcolor por
+un gris claro. Ahora, dentro de este cuadro, agregamos los labels para indicar los
+puntos que habrá en el cuadro. Las herramientas a utilizar para ingresar datos en
+cada punto (carrera, semestre y grupo) son Combo box.
+
+Datos Académicos
+
+Carrera ¡Selecciona la carrera w |
+Semestre ¡Selecciona el semestre
+
+Grupo ¡Selecciona el grupo
+
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+
+--- PÁGINA 93 ---
+FORMULARIOS
+
+Para ingresar los datos a seleccionar,
+se agregan en propiedades >> datos >>
+ítems y debe estar en collection. En cada
+Combo box, se añaden datos de acuerdo
+con lo que pide la etiqueta; por ejemplo, en
+carrera agregamos diferentes licenciaturas
+e ingenierías para seleccionar.
+
+Al hacer clic en los tres puntos que están al
+lado de collection, se abrirá el cuadro del
+editor de colección donde agregamos las
+opciones que mostrará el Combo box. Al
+dar clic en aceptar, estos se mostrarán al
+momento de correr el programa.
+
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+(DataBindings)
+
+DataSource (none)
+
+(ControlBindings)
+
+(ninguno)
+(A
+
+Escriba las cadenas en la colección (una por línea):
+
+Licenciatura en Desarrollo Gerencial
+Licenciatura en Derecho
+
+Licenciatura en Mercadotecnia
+Licenciatura en Psicología
+
+Licenciatura en Lenguas
+
+Licenciatura en Economía / Contaduría
+Ingeniería en Desarrollo de Software
+Ingeniería Industrial
+
+Ingenería en Mecatrónica
+
+Ingeniería en Ciencias Químicas
+Ingeniería en Mecatrónica
+
+Ingeniería en Logística
+
+Aceptar
+
+Cancelar
+
+
+--- PÁGINA 94 ---
+FORMULARIOS
+
+Ahora agregamos el último groupbox del programa, donde están los datos médicos
+del paciente. Primero añadimos los labels para padecimiento y síntomas, nombre
+del médico, medicamento y fecha.
+
+En los tres primeros puntos se ingresan los datos en un text box, pero ahora la
+diferencia es que síntomas y medicamentos aparecerá en modo párrafo. Para
+configurar un text box de este modo, seleccionamos la herramienta en cuestión y
+vemos una “flechita” en el extremo derecho; damos clic y seleccionamos la opción
+multilínea. Esto permite agregar párrafos.
+
+Ó Multilínea
+
+Pone TextBox a ul
+
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+
+--- PÁGINA 95 ---
+FORMULARIOS
+
+Ahora el tipo de herramienta a
+utilizar en fecha para ingresar los
+datos es DateTimePicker, ya que
+este proporciona un calendario
+en el formulario; normalmente
+tendrá seleccionado el presente
+día, pero se puede seleccionar
+cualquier día.
+
+La sección de datos médicos
+debería quedar así:
+
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+Datos Médicos
+Padecimiento y Sintomas
+
+Nombre del Médico / Enfermero
+
+Medicamento
+
+Fecha 4 septiembre de 2022 »
+lun. mar. mié jue vie sáb. dom.
+292 0 3 1 2 3 4
+5. 6_7 8 9 10 411
+12 13 [0M) 15 16 17 18
+920 21 2 23 24 25
+
+282 2 320 1
+
+6 Y 8 9
+
+Hoy: 14/9/2022
+
+
+--- PÁGINA 96 ---
+FORMULARIOS
+
+Finalmente el formulario debe visualizarse como la siguiente imagen.
+
+Formulario Enfermería
+
+Datos del Paciente Datos Médicos
+Nombre del paciente Padecimiento y Síntomas
+Edad y - -
+Nú de teléfon:
+Sl —Ñ Nombre del Médico / Enfermero
+Género O Masculino O Femenino
+Domicilio Medicamento
+pee arenas Fecha ' septiembre de 2022 »
+Carrera Selecciona la carrera , lun. mar. mié. jue vie sáb. dom.
+29 3 1 3 E
+
+5 6 71. 8 9 10 01
+Semestre Selecciona el semestre Y 12 13 (004) 15 16 17 18
+19 20 21 2 23 24 25
+26 27 28 29 30 1
+
+Grupo Selecciona el grupo Dl
+[ Hoy: 14/9/2022
+
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+
+--- PÁGINA 97 ---
+FORMULARIOS
+
+Después de completar los espacios
+para ingresar datos en el formulario, es E Apariencia
+
+momento de agregar los botones de BackColor MN GradientActive
+Enviar datos y Resetear datos. El primer o 1 co
+botón enviará los datos ingresados a una A
+
+nueva interfaz, y el segundo borrará todo
+lo ingresado en el formulario.
+
+Cursor Default
+
+FlatAppearan«
+FlatStyle Standard
+Font Calibri; 12pt
+
+En herramientas selecciona Button para
+cada botón. Para darles formato, el fondo
+de ambos será de color azul y la fuente
+será Calibri, tamaño 12. Recuerda que
+para realizar estos cambios debes entrar
+al panel de propiedades >> apariencia;
+y deberían verse así:
+
+ForeColor ControlText
+
+Enviar datos Resetear datos
+
+U3 DISEÑO DE INTERFAZ DE USUARIO
+
+--- PÁGINA 98 ---
+FORMULARIOS
+
+U3
+
+Como plus, agrega una imagen alusiva al
+formulario. En este caso, integraremos un
+ícono de una enfermera. Para agregarlo,
+sigue los siguientes pasos:
+
+En las herramientas, selecciona la
+- Opción de PictureBox.
+
+Aparecerá una flechita en el extremo
+= derecho, dale clic y aparecerá la opción
+de seleccionar imagen.
+
+Se abrirá un cuadro llamado Explorador
+» de recursos, ahí selecciona la primera
+
+opción de contexto de recurso: Recurso
+
+local, y luego da clic en importar.
+
+Notifylcon
+NumericUpDown
+PictureBox
+
+ProgressBar
+
+RadioButton
+
+Normal eE
+
+rp
+
+
+--- PÁGINA 99 ---
+FORMULARIOS
+
+Se abrirá el explorador de archivos,
+. selecciona la imagen deseada.
+
+Aparecerá la imagen en el cuadro de
+» Tecursos, y dale aceptar.
+
+Al principio la imagen no se visualizará
+6 bien debido a su tamaño; para
+= adaptarla, da clic en modo de tamaño
+y selecciona la opción de zoom; con
+esto la imagen se autoajustará de
+acuerdo con el tamaño dado al Picture
+box.
+Listo, agregamos una imagen al
+formulario, y la acomodaremos a un
+lado de los botones.
+
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+Contexto
+O Recurso local:
+
+[importar Borar
+
+Archivo de recurso del proyecto:
+
+Normal
+
+] Stretchimage
+AutoSize
+Centerlmage
+Zoom
+
+
+--- PÁGINA 100 ---
+FORMULARIOS
+
+Ahora la interfaz del formulario completo debe verse de la siguiente manera.
+
+Formulario Enfermería
+
+Datos del Paciente
+Nombre del paciente
+
+Datos Médicos
+Padecimiento y Síntomas
+Edad
+
+Número de teléfono
+
+Nombre del Médico / Enfermero
+
+Género O Masculino O Femenino
+Domicilio Medicamento
+as sa Fecha 4 septiembre de 2022 »
+Carrera ¡Selecciona la carrera | lun. mar. mié jue. vie. sáb. dom. |
+5 6 7 8 9 10 1
+Semestre [Selecciona el semestre | 12 13 [0D 15 16 17 18
+19 20 21 2 2 2 25
+Grupo [Selecciona el grupo Y 1. me » 1
+ED) hoy: 14/9/2022
+FEO
+pa Enviar datos Resetear datos
+
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+
+--- PÁGINA 101 ---
+CONTROLES Y MENÚS
+
+U3
+
+Controles
+Los controles conforman la mayor parte de la interfaz
+de cliente en Visual Studio.
+
+Los controles se utilizan en la interfaz de Visual Studio;
+estos tienen que continuar las directrices de relación
+del escritorio de Windows.
+
+Este asunto es específico de Visual Studio y trata
+situaciones especiales o detalles que incrementan
+aquellas directrices de Windows.
+
+Cuadro de herramientas
+
+Búsqueda en el Cuadro de herramientas
+
+4 Todo Windows Forms
+
+”
+
+E o
+
+5641790500484 0032
+
+> poz
+
+Puntero
+BackgroundWorker
+BindingSource
+CheckBox
+CheckedListBox
+ColorDialog
+ComboBox
+ContextMenuStrip
+DataGridView
+DateTimePicker
+DomainUpDown
+ErrorProvider
+FileSystemWatcher
+FlowLayoutPanel
+FolderBrowserDialog
+FontDialog
+GroupBox
+HelpProvider
+HScrollBar
+
+ImageList
+Label
+LinkLabel
+
+MenuStrip
+
+
+--- PÁGINA 102 ---
+U3
+
+CONTROLES Y MENÚS
+
+Controles de botón
+
+Button: Componente que permite
+implementar un evento pulsándolo.
+Después de colocar un control de botón
+en un formulario, el siguiente paso es
+establecer las propiedades del botón.
+
+Para esto, solo haz clic en un botón y en
+la parte derecha inferior del programa
+aparecerán las propiedades de este,
+donde se cambia el color, tipo de letra,
+el contenido del texto, etc., en general
+las propiedades visuales se cambian en
+la sección de apariencia.
+
+ral frente
+
+Enviar al fondo
+
+Eliminar
+
+£ Propiedades
+
+"A
+
+button1 System.Windows.Forms.Butt +
+
+Cursor
+FlatAppearan<
+FlatStyle
+
+Font
+ForeColor
+Image
+ImageAlign
+Imagelndex
+
+ImageKey
+
+ImageList
+RightToLeft
+
+Default
+
+Standard
+
+Microsoft Sans Serif;
+Control Text
+(ninguno)
+
+MiddleCenter
+(ninguno)
+(ninguno)
+
+(ninguno)
+
+No
+
+button1
+
+
+--- PÁGINA 103 ---
+CONTROLES Y MENÚS
+
+Hobbies (Check Box)
+
+Controles de botón LJ Cantar
+Check Box y Radio Button: () Dibujar
+Los controles CheckBox y RadioButton O) Ver series
+tienen una función similar: permiten al O Dom
+usuario elegir de una lista de opciones. 6
+
+ocinar
+Los controles CheckBox permiten al usuario O Programar
+
+elegir una combinación de opciones. Por
+el contrario, los controles de RadioButton
+permiten al usuario elegir entre opciones
+mutuamente excluyentes. O Si O No
+
+¿Te gustaría entrar a un curso? (Radio Button)
+
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+
+--- PÁGINA 104 ---
+CONTROLES Y MENÚS
+
+Controles PictureBox y TextBoxt
+
+PictureBox se usa para mostrar gráficos en
+formato de mapa de bits, GIF, JPEG o ícono. La
+propiedad de PicutureBox permite establecer
+una imagen tanto en tiempo de diseño, como en
+tiempo de ejecución.
+
+Propiedades:
+AllowDrop: cuando el PictureBox acepta datos
+
+que un usuario arrastra sobre él. | !
+ImageLocation: establece la dirección URL de la ys
+imagen que se muestra en el control. | HOBBIES
+Initiallmage: establece la imagen que se muestra AFICIONES
+
+en el control, cuando se carga la imagen principal. Ñ ES |
+
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+
+--- PÁGINA 105 ---
+CONTROLES Y MENÚS
+
+TextBoxt
+
+Este control se usa para texto editable, y también se puede hacer de solo lectura.
+Puede mostrar varias líneas, ajustar el texto al tamaño del control y agregar formato
+básico. El texto que muestra el control está contenido en la propiedad Text.
+
+De manera predeterminada, puede ingresar hasta 2048 caracteres en un cuadro de
+texto. Si establece la propiedad Multilínea, se puede ingresar hasta 32 KB de texto.
+La propiedad Texto se puede establecer en tiempo de diseño con la Ventana de
+propiedades.
+
+¿Qué es un pasatiempo? (Text Box)
+Se conoce como pasatiempo a la actividad que una
+persona lleva a cabo para mantenerse entretenida ¿Qué es un pasatiempo? (Text Box)
+durante un tiempo. De este modo, el pasatiempo sirve o la]
+para combatir el aburrimiento y para tener la mente
+concentrada en algo placentero.
+
+Por ejemplo: “Jugar al tenis es mi pasatiempo
+
+preferido”, “Cuando era pequeño, comencé a 0
+coleccionar estampillas como pasatiempo y aún hoy
+
+mantengo ese hobby”, “No existe pasatiempo más
+
+enriquecedor que la lectura de un buen libro”.
+
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+
+--- PÁGINA 106 ---
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+CONTROLES Y MENÚS
+
+Controles de lista: ListBox, ComboBox y
+CheckListBox
+
+ListBox: muestra una lista en la que el usuario
+puede seleccionar uno o más elementos. Si el
+número total de elementos supera el número
+que se puede mostrar, se agrega una barra
+de desplazamiento al control ListBox.
+
+ComboBox: se usa para mostrar datos en un
+cuadro combinado desplegable; este control
+aparece en dos partes: la parte superior es
+un cuadro de texto que permite al usuario
+escribir un elemento de la lista. La segunda
+parte es un cuadro de lista que muestra una
+lista de elementos de los que el usuario puede
+seleccionar uno.
+
+¿Cuáles tu color favorito? (ListBox)
+
+Selecciona el estado donde vives (Combo Box)
+
+Aguascalientes
+Chihuahua
+San Luis Potosi
+Zacatecas
+
+CDMX
+Sinaloa
+Jalisco
+
+Nuevo León
+Chiapas
+Sonora
+Yucatán
+
+Baja Califomia
+
+
+--- PÁGINA 107 ---
+CONTROLES Y MENÚS
+
+Miembros: Propiedades de ListViewitem: (Número 1%
+
+Md uistvieniter: (Numero EI
+Controles ListView y TreeView: o
+ListView: muestra una lista de elementos con o
+íconos. Puede usar una vista de lista para crear o dm me
+una interfaz de usuario, como el panel derecho a
+del Explorador de Windows. El control tiene | Srémezándas [] tingana
+cuatro modos de vista: Largelcon, Smalllcon, e —= Zn
+List y Details. A
+TreeView: muestra una jerarquía de nodos a TE x
+los usuarios, como la forma en que se muestran Gimmi 22
+los archivos y las carpetas en el panel izquierdo - MEN
+de la función Explorador de Windows del Eos | A
+sistema operativo Windows. Cada nodo de la MS fun TT
+vista de árbol puede contener otros nodos, P. e
+
+denominados nodos secundarios.
+
+Add Remove Add child Cancel
+
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+
+--- PÁGINA 108 ---
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+CONTROLES Y MENÚS
+
+Control de fechas
+
+MonthCalendar: presenta una interfaz
+gráfica intuitiva para que los usuarios
+vean y configuren la información de la
+fecha. El control muestra un calendario:
+una cuadrícula que contiene los días
+numerados del mes, dispuestos
+en columnas debajo de los días de
+la semana, con el rango de fechas
+seleccionado resaltado. Se puede
+seleccionar un mes diferente haciendo
+clicen los botones de flecha a cada lado
+del título del mes.
+
+Selecciona tu fecha de nacimiento (MonthCalendar)
+
+4 septiembre de 2022 »
+
+lun. mar. mié. jue. vie. sáb.
+29 30 3 1 2 3
+
+5 6 7 _ 8 39 u10
+12 13 14 16 17
+19. 2 21 2 23 24
+26 27 28 29 30 1
+E) Hoy: 15/9/2022
+
+A
+
+
+--- PÁGINA 109 ---
+U3
+
+CONTROLES Y MENÚS
+
+Menús
+
+Un menú en un Windows Form se crea
+con un objeto MainMenu, que es una
+colección de objetos Menú y barras de
+herramientas. MainMenu es el contenedor
+de la estructura Menu del formulario y los
+menús están hechos de objetos Menultem,
+que representan partes individuales de un
+menú.
+
+Puedes agregar menús a Windows Forms
+en el momento del diseño, agregando el
+componente MainMenu y luego agregando
+elementos de menú mediante el Diseñador
+de menús.
+
+4 Menús y barras de herramientas
+Puntero
+ContextMenusStrip
+MenusStrip
+StatusStrip
+ToolStrip
+
+ToolStripContainer
+
+
+--- PÁGINA 110 ---
+CONTROLES Y MENÚS
+
+MenusStrip
+
+El control MenuStrip admite la interfaz PP
+de documentos múltiples (MDI) y la E E
+combinación de menús, la información Open
+sobre herramientas y el desbordamiento. Close
+Puede mejorar la facilidad de uso y la |_.Iype Here
+legibilidad de sus menús agregando teclas Type Tex for ToolStripMenultem ]
+de acceso, teclas de método abreviado,
+marcas de verificación, imágenes y barras
+separadoras.
+
+El control MenuStrip reemplaza y agrega
+funcionalidad al control MainMenu;
+sin embargo, el control MainMenu se
+conserva por motivos de compatibilidad
+con versiones anteriores y uso futuro si
+lo desea.
+
+3 MenuStripl
+
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+
+--- PÁGINA 111 ---
+CONTROLES Y MENÚS
+
+StatusStrip
+
+Un control StatusStrip muestra información sobre un objeto que se ve en un
+formulario, los componentes del objeto oinformación contextual relacionada con la
+operación de ese objeto dentro de su aplicación. Normalmente, un control StatusStrip
+
+consta de objetos ToolStripStatusLabel, cada uno de los cuales muestra texto, un
+ícono o ambos.
+
+el Formi ea 13
+
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+
+--- PÁGINA 112 ---
+CONTROLES Y MENÚS
+
+ToolStrip
+
+El control ToolStrip de Windows Forms y sus clases asociadas proporcionan un
+marco común para combinar elementos de la interfaz de usuario en barras de
+herramientas, barras de estado y menús. Los controles ToolStrip ofrecen una rica
+experiencia en tiempo de diseño que incluye activación y edición en el lugar, diseño
+personalizado y rafting, que es la capacidad de las barras de herramientas para
+compartir espacio horizontal o vertical.
+
+pe Form1 Le]
+
+[9217 DISEÑO DE INTERFAZ DE USUARIO
+
+
+--- PÁGINA 113 ---
+CONTROLES Y MENÚS
+
+ToolStripContainer adada- ada iaadal
+Un ToolStripContainer tiene paneles en los i aaallaaaaa
+lados izquierdo, derecho, superior e inferior — :
+para colocar y distribuir los controles ToolStrip,
+MenusStrip y StatusStrip. Múltiples controles
+ToolStrip se apilan verticalmente si los coloca
+en el ToolStripContainer izquierdo o derecho.
+Se apilan horizontalmente si los coloca en el
+ToolStripContainer superior o inferior. Puede
+utilizar el ToolStripContentPanel central de
+ToolStripContainer para colocar los controles
+tradicionales en el formulario.
+
+DISEÑO DE INTERFAZ DE USUARIO
+
+
+--- PÁGINA 114 ---
+ACTIVIDAD INTEGRADORA 2
+
+Te invitamos a realizar la siguiente actividad.
+
+Presiona el botón para descargar la actividad.
+
+Presiona el botón para entregar la actividad.
+
+Bl
+
+DISEÑO DE INTERFAZ DE USUARIO
+
+
+--- PÁGINA 115 ---
+LECTURAS PARA
+REFORZAR LA UNIDAD
+
+
+--- PÁGINA 116 ---
+Windows Forms proporciona un modelo de S
+
+programación unificado para el desarrollo de CONAROSON
+aplicaciones estándar de Windows. Ayuda de
+manera eficiente en la programación en CH,
+
+siempre puede ser productivo porque el sustrato
+común se ha desarrollado para beneficiar a todos.
+
+Windows Forms trae un verdadero modelo
+de programación orientado a objetos para el
+desarrollo de GUI de Windows, lo que permite
+un marco extensible que es mucho más limpio
+y fácil de usar, en comparación con los intentos
+anteriores.
+
+DISEÑO DE INTERFAZ DE USUARIO
+
+
+--- PÁGINA 117 ---
+IFELICIDADES!
+
+Acabas de concluir la tercera unidad de tu curso
+Lenguajes de Programación Ill. Te invitamos a
+finalizar este esfuerzo realizando el examen parcial
+correspondiente. Para ello, debes regresar a la
+pantalla principal y dar clic en Presentar examen.
+
+DISEÑO DE INTERFAZ DE USUARIO
+
+
+--- PÁGINA 118 ---
+UNIDAD
+
+TRANSACCIONES
+CON BASES
+DE DATOS
+
+
+--- PÁGINA 119 ---
+> TEMARIO
+
+4.1
+ALTAS Y BAJAS
+
+>
+
+4.2
+
+MODIFICACIONES
+Y CONSULTAS
+
+
+--- PÁGINA 120 ---
+INTRODUCCIÓN
+
+En esta cuarta y Última unidad, el alumno aprenderá
+a realizar un CRUD (altas, consultas, modificaciones
+y eliminación) de datos utilizando C+* en el entorno de
+trabajo de Visual Studio, además de realizar la conexión
+de una base de datos SQL de Microsoft SQL Server
+Management al programa que estaremos trabajando.
+
+--- PÁGINA 121 ---
+una modificación y una consulta
+programando en C+.
+
+una alta y una eliminación
+programando en C+.
+
+El alumno será capaz de realizar Los El alumno será capaz de efectuar
+
+
+--- PÁGINA 122 ---
+TE INVITAMOS A VER EL SIGUIENTE VIDEO:
+
+--- PÁGINA 123 ---
+ALTAS Y BAJAS
+
+CRUD: Create, Read, Update y Delete
+Crear, Leer, Actualizar, Eliminar
+
+En dichas aplicaciones, los usuarios deben
+poder crear datos , tener acceso a ellos en la
+interfaz de usuario leyendo los datos, actualizar
+o editarlos y eliminarlos.
+
+En las aplicaciones completas, las aplicaciones
+CRUD constan de 3 partes: una API (o servidor),
+una base de datos y una interfaz de usuario
+(Un.
+
+U4 TRANSACCIONES CON BASES DE DATOS
+
+
+--- PÁGINA 124 ---
+ALTAS Y BAJAS
+
+Conexión a la base de datos
+
+Utilicemos el formulario creado en la Unidad 2 donde se piden datos personales.
+
+Ahora vamos a guardar los datos ingresados en una base de datos; utilizaremos
+SQL Server para este ejemplo.
+
+Entonces lo primero que haremos es la base de datos y luego un archivo de conexión
+a esta dentro del proyecto del formulario.
+
+Y
+Detalles del Usuario
+
+Nombre: María Juliana Márquez O Masculino
+
+Dirección: - Calle Roble $492 col. Sauces O Femenino
+
+CDMX Enviar
+Guadalajara
+
+U4 TRANSACCIONES CON BASES DE DATOS
+
+
+--- PÁGINA 125 ---
+ALTAS Y BAJAS
+
+Conexión a la base de datos
+
+Con la base de datos creada en Microsoft SQL Server Management y llamada
+datos, vemos que incluye una tabla llamada datospersonales con cinco filas: ID,
+nombre, dirección, ciudad y género, cada una corresponde a los datos solicitados
+anteriormente en el formulario.
+
+Column Name Data Type Allow Nulls
+O
+nombre text au
+direccion text [15]
+ciudad text (5)
+genero text [15]
+O
+
+TRANSACCIONES CON BASES DE DATOS
+
+
+--- PÁGINA 126 ---
+ALTAS Y BAJAS
+
+Conexión a la base de datos
+
+Una vez que la interfaz y la base de datos están listas, es momento de realizar la
+conexión con la base de datos.
+
+Para conectarse a la base de datos de SQL Server en Visual Studio, inicia un nuevo
+proyecto y abre el Explorador de servidores haciendo clic en la pestaña junto a la
+Caja de herramientas o desde Ver > Explorador de servidores. Haz clic derecho en
+“Conexiones de datos' y luego clic en “Agregar conexión.
+
+19] A <x0 Page Title="Home Page'
+
+:
+> E Servers (Y Refresh 1
+> [5] SharePe ]
+
+Add Connection...
+Create New SQL Server Database... ]
+
+TRANSACCIONES CON BASES DE DATOS
+
+
+--- PÁGINA 127 ---
+ALTAS Y BAJAS
+
+En la siguiente pantalla (Origen de datos), cambia la fuente de datos, asegúrate de
+seleccionar Microsoft SQL Server y luego haz clic en el botón “Continuar”.
+
+O En el campo “Nombre del servidor” ingresa el nombre del servidor de SQL
+
+Server Management.
+
+O Cambia el método de 'Autenticación' a
+“Autenticación de Windows”.
+
+OFinalmente, ingresa el nombre de la base
+de datos.
+
+Data source:
+
+Microsoft Access Database File Description
+Microsoft ODEC Data Source
+Micro SQL Server
+
+Use this selection to connect to
+Sen Microsoft SQL Serves 2005 or above, or
+Server Database File to Microsoft SQL Azure using the NET
+
+Microsoft SQL
+MySQL Database Framework Data Provider for SQL
+Oracle Database Server.
+
+<other>
+
+Data provider:
+«NET Framework Data Provider for SQL£ *
+
+Anja us tia stc ra
+
+U4 TRANSACCIONES CON BASES DE DATOS
+
+Especiiq
+Cambiar” para elega ctro ongen e proveedor de datos.
+
+Ongen de gatos
+Microsoft SQL Sesves (Sg/Cient)
+Nombrg del senador
+DESKTOP-LIG1EMSQLEXPRESS
+Conexión con el senador
+
+Autenticación: — Autenticación de Windows
+
+Establecer conexión con una base de datos
+
+O seleccionar e escribe el nombre de la base de datos
+setos
+
+Agur un srcheo de pare de datos
+
+Probar conexión
+
+[aceptar
+
+que la formación para conectarse al crigen de datos seleccionado o haga clic en
+
+Ayanzadas.
+
+
+--- PÁGINA 128 ---
+ALTAS Y BAJAS
+
+Haz clic en el botón “Aceptar” para salir del asistente Agregar conexión", y se habrá
+agregado una conexión a la base de datos que aparecerá en 'Conexiones de datos'
+en “Explorador de servidores”.
+
+sqlexpress.datos.dbo
+4 [E Tablas
+4 EH dat sonales
+E
+
+nombre
+
+ciudad
+
+genero
+
+B
+B direccion
+B
+B
+
+U4 TRANSACCIONES CON BASES DE DATOS
+
+
+--- PÁGINA 129 ---
+ALTAS Y BAJAS
+
+Create (Alta)
+
+Significa crear una entrada. Esta entrada podría ser
+una cuenta, información de usuario, una publicación
+o una tarea.
+
+En una base de datos SQL, crear es Insert.
+
+TRANSACCIONES CON BASES DE DATOS
+
+
+--- PÁGINA 130 ---
+ALTAS Y BAJAS
+
+Alta
+
+Para crear un alta, el primer paso es crear la consulta Insert utilizando un archivo
+nuevo de la base de datos.
+
+En la barra de menú de la base de datos, existe una carpeta llamada “Procedimientos
+almacenados”. Damos clic derecho sobre esa carpeta y seleccionamos la opción
+de “Agregar nuevo procedimiento almacenado”.
+
+ocedure]
+xpress.datos.dbo
+
+2
+
+dimientos almaresnadae
+
+Agregar nuevo procedimiento almacenado
+
+U4 TRANSACCIONES CON BASES DE DATOS
+
+
+--- PÁGINA 131 ---
+ALTAS Y BAJAS
+
+U4
+
+Alta
+Ahora tendremos un archivo como el de la siguiente imagen:
+
+dbo.Proceduresql + X Forml.cs
+
+EJCREATE PROCEDURE [dbo]. [Procedure]
+fparaml int €
+Oparam2 int
+AS
+SELECT Gparaml, fparam2
+RETURN 0
+
+El método de insertar un registro queda así. Recuerda que el nombre del Store Procedure
+será como se almacena y se llamará según tu programa en VS. Para este caso quedaría
+del siguiente modo:
+
+EICREATE PROCEDURE [dbo].[AltaDatos]
+fparam1ID int 8
+fparam2Nombre text e
+fparam3Direccion text a
+fparamiCiudad text io
+
+fparam5Genero text ii
+
+AS
+
+E INSERT INTO datospersonales (1D, nombre, direccion, ciudad, genero) VALUES
+
+| fparaml1ID, fparam2Nombre, fparam3Direccion, fparamiCiudad, fparam5Genero
+RETURN 6
+
+
+--- PÁGINA 132 ---
+ALTAS Y BAJAS
+
+U4
+
+Alta
+
+Es importante especificar que los parámetros creados son como las variables en el
+código de alta del programa, y los datos ingresados se guardarán en la base de datos que
+importamos anteriormente. Por eso en la consulta del INSERT se ponen los parámetros
+creados, en lugar de los datos de manera directa.
+
+EJCREATE PROCEDURE [dbo].[ConsultasDatos]
+QID int
+QNombre text
+fDireccion text
+fCiudad text
+fGenero text
+
+fResultado text
+
+AS
+BEGIN
+INSERT INTO datospersonales VALUES (ID, (Nombre, GDireccion, GCiudad, (Genero, fResultado
+
+
+--- PÁGINA 133 ---
+ALTAS Y BAJAS
+
+Alta
+El siguiente paso es codificar el botón de “enviar” de la interfaz del programa. Para
+esto, haz doble clic en cualquier parte del formulario para generar un evento Form_
+
+Load. Escribe el código del evento y también importa el espacio de nombres System.
+Data.SalClient.
+
+ConexionBD( t sender, EventArgs e)
+
+cn = SglConnection(4"D
+cn.Open();
+
+ObtenerDatos();
+j
+
+U4
+
+
+--- PÁGINA 134 ---
+U4
+
+ALTAS Y BAJAS
+
+Ahora crearemos un método para obtener todos los datos de la tabla y configurarlos
+en la vista de cuadrícula de datos. Usaremos este código muchas veces, por lo que
+creamos un método simple.
+
+El siguiente es el código para obtener todos los registros de la tabla y configurarlos
+en la vista de cuadrícula de datos.
+
+GuardarFormulario()
+
+cmd = n SqlCommand("GuardarFormulario", cn);
+cmd .CommandType = Comandiype. StoredProcedure;
+cmd .Parameters.AddWithValue("1
+
+cmd .Parameters.AddWithValue(
+
+cmd .Parameters.AddWithValue("6
+
+cmd .Parameters.AddWithValue(
+
+cmd .Parameters.AddWithValue("fGe
+cmd .Parameters.AddWithValue(
+
+da = SqlDataAdapter(cmd) ;
+DataTable dt = DataTable();
+da.Fil1(dt);
+
+dataGridViewl.DataSource = dt;
+
+
+--- PÁGINA 135 ---
+ALTAS Y BAJAS
+
+Explicación del código
+
+OEnprimer lugar, coloca el nombre del
+procedimiento de almacenamiento
+y el objeto de conexión en el objeto
+SOLCommand, que definimos en
+la parte superior de la página.
+
+O Define el tipo de comando como
+procedimiento de almacenamiento.
+
+O Indica en todos los parámetros
+un valor nulo y cero, que es el tipo
+de operación para obtener todos
+los registros del procedimiento de
+almacenamiento.
+
+U4 TRANSACCIONES CON BASES DE DATOS
+
+O Inicializa el objeto de comando a
+objeto DataAdapter.
+
+O Crea un nuevo objeto DataTable
+y coloca el valor del objeto del
+adaptador de datos al objeto de la
+tabla de datos mediante el método
+de relleno.
+
+OEstablece el objeto de la tabla de
+datos en la vista de cuadrícula de
+datos.
+
+
+--- PÁGINA 136 ---
+ALTAS Y BAJAS
+
+Ahora generamos un método para guardarlo haciendo doble clic en dicho botón;
+agregamos el siguiente código en el evento y damos clic en el botón Guardar.
+
+O
+
+if (txtNombre.Text != Empty ££ txtDireccion.Text != Empty ££
+Ciudad.Text != Empty ££ Hombre.Text != Empty ££ Mujer.Text
+£6 txtresultados.Text != Empty)
+
+cmd = ("GuardarFormulario", cn);
+cmd.CommandType = CommandType.StoredProcedure;
+cmd .Parameters.AddWithValue("£1D", 0);
+
+cmd .Parameters.AddWithValue("EGNombre", "");
+cmd.Parameters.AddWithValue("fDireccion”, "");
+cmd .Parameters.AddWithValue("fCiudad", "");
+cmd .Parameters.AddWithValue("fGenero", "");
+cmd .Parameters.AddWithValue("fResultados”, "");
+cmd . ExecuteNonQuery() ;
+
+ObtenerDatos();
+
+txtNombre.Text = "";
+
+txtDireccion.Text = "";
+
+Ciudad.Text = "";
+
+Hombre.Text = "";
+
+Mujer.Text = "";
+
+txtresultados.Text = "";
+
+
+--- PÁGINA 137 ---
+ALTAS Y BAJAS
+
+U4
+
+Primero, es necesario verificar que el usuario haya ingresado un valor en todos los
+campos; de lo contrario mostramos un mensaje o continuamos.
+
+Después, asícomo se obtienen todos los parámetros de paso del método de registro
+en el procedimiento de almacenamiento, aquí utilizamos el método ExecuteNonQuery
+para insertarlo en la tabla.
+
+btnEnviarQ)
+
+£ (txtNombre.Text != Empty ££ txtDireccion.Text != Empty 88
+Ciudad. Text Empty 55 Hombre.Text Empty £5 Mujer.Text
+66 txtresultados.Text != ing.Empty)
+
+cad = SglCommand( n io", cn);
+cmd .CommandType = CommandType.StoredProcedure;
+cmd.Parameters.AddWithValue("£1D”, 0);
+
+cmd .Parameters . AddWithValue( mbre”
+
+cmd .Parameters . AddWithValue(
+
+cmd. Parameters . AddWithValue(
+
+cmd. Parameters. AddWithValue(
+
+cmd . Parameters , AddWithValue(
+
+cmd .ExecuteNonQuery() ;
+
+ObtenerDatos();
+
+txtNombre.Text = "";
+
+txtDireccion.Text
+
+Ciudad.Text = "";
+
+Hombre.Text =
+
+Mujer.Text
+
+txtresultados.Text =
+
+
+--- PÁGINA 138 ---
+ALTAS Y
+
+Delete (Eliminar)
+
+BAJAS
+
+Eliminar es deshacerse de una entrada de la
+interfaz de usuario y de la base de datos.
+
+En una base de datos SQL, Delete se utiliza
+
+para eliminar una entrada.
+
+U4
+
+--- PÁGINA 139 ---
+ALTAS Y BAJAS
+
+Eliminar
+
+El proceso de eliminar es muy parecido al de alta, como fue el caso de un paciente
+nuevo; utilizamos el mismo archivo creado en el procedimiento de alta para crear
+una nueva consulta para Delete, como se aprecia en la siguiente imagen con la
+codificación:
+
+datospersonales
+
+U4 TRANSACCIONES CON BASES DE DATOS
+
+
+--- PÁGINA 140 ---
+ALTAS Y BAJAS
+
+Eliminar
+
+Ahora que tenemos la consulta, el siguiente paso es crear un espacio donde se
+muestren los datos dados de alta. Para ello, agregamos dos botones: uno para
+modificar y otro para eliminar; este espacio está en la misma interfaz que el formulario
+de alta.
+
+Pacientes registrados
+
+TRANSACCIONES CON BASES DE DATOS
+
+
+--- PÁGINA 141 ---
+U4
+
+ALTAS Y BAJAS
+
+sender, EventArgs e
+£ (txtTabla.Text != Empty)
+Eliminar . , o : cmd = SqlCommand("Eliminar”, cn);
+Ahora damos clic en el botón de eliminar cmd .CommandType = CommandType.StoredProcedure;
+: : cmd .Parameters . AddWithValue( 0)
+para darle funcionalidad. cmd .Parameters.AddWithValue("fNombre”,
+cmd .Parameters.AddWithValue( ; i
+LA: d ddwWithVal CS
+La estructura del código del evento A .
+eliminar es muy parecida al del botón de => acierda a
+, : Cl e -
+alta, pero aquí cambia la consulta que o Z
+se manda llamar del procedimiento, en erraste le A
+7 7 Xx 1reccion ex
+este caso es eliminar. Ciudad.Text = "";
+Hombre.Text = :
+. , - . Mujer.Text = :
+A partir de ahí los parámetros siguen txtresultados.Text = "";
+iguales, y al final declaramos False los da Ñ
+o. es btnEliminar.Enabled =
+botones de eliminar y modificar. btnModificar.Enabled = /
+
+
+--- PÁGINA 142 ---
+MODIFICACIONES Y CONSULTAS
+
+Update (Modificaciones)
+Update es la operación que permite modificar los datos
+existentes, es decir, editar los datos.
+
+A diferencia del Read, la operación Update altera los datos
+existentes al realizar cambios en ellos.
+
+En una base de datos SQL, se utiliza Update para actualizar
+una entrada.
+
+U4 TRANSACCIONES CON BASES DE DATOS
+
+
+--- PÁGINA 143 ---
+MODIFICACIONES Y CONSULTAS
+
+Modificaciones
+Ahora que tenemos alta y baja de datos, el siguiente evento del CRUD es modificar.
+Para esto, seguimos los mismos pasos del botón dar de alta y del botón eliminar. En
+
+el archivo donde se encuentra este procedimiento agregamos una nueva consulta
+Update:
+
+BEGIN
+E UPDATE datospesonales SET Nombre=fNombre, Direccion=fDireccion, Ciudad=fCiudad
+
+Genero-fGenero, Resutado-fResultado WHERE id=4ID
+
+U4 TRANSACCIONES CON BASES DE DATOS
+
+
+--- PÁGINA 144 ---
+MODIFICACION
+
+U4
+
+Modificaciones
+Ahora generamos
+clic en el botón
+
+btnModificar, al dar doble clic en
+él y reemplazar con el siguiente
+
+código.
+
+El código sigue la misma estructura
+que la codificación del código de
+
+alta y de eliminar.
+
+ES Y CONSULTAS
+
+un evento de
+de modificar:
+
+F (txtTabla.Text
+
+btnModificar_Click(
+
+sender, EventArgs e)
+
+Empty 55 txtNombre.Text
+txtDireccion.Text != Empty ££ Ciudad.Text !=
+Hombre.Text != Empty ££ Mujer.Text !=
+
+£6 txtresultados.Text != Empty)
+
+SqlCommandC
+CommandType
+Parameters
+Parameters
+Parameters
+Parameters
+
+cmd
+cmd
+cmd
+cmd
+cmd
+cmd
+cmd
+
+, cn);
+CommandType . StoredProcedure;
+
+AddWithValue("01D", 0);
+
+AddWithValue(”N e
+
+AddWithValue("fDireccion”, di
+
+AddWithValue( i 2 3;
+
+Parameters.AddWithValue("6G: AE
+
+cmd .Parameters . AddWithValue(
+
+cmd . ExecuteNonQuery() ;
+
+Obtenerdatos();
+
+txtNombre.Text =
+
+txtDireccion.Text =
+
+Ciudad.Text
+
+Hombre. Text
+
+Mujer.Text
+
+txtresultados.Text =
+
+btnEliminar.Enabled
+btnModificar Enabled
+
+
+--- PÁGINA 145 ---
+MODIFICACIONES Y CONSULTAS
+
+U4
+
+Read (Consultas)
+
+La operación Read significa obtener acceso
+a las entradas, o entradas en la interfaz de
+usuario; es decir, verlas. Nuevamente, la entrada
+puede ser cualquier cosa, desde información del
+usuario hasta publicaciones en redes sociales.
+Este acceso podría significar que el usuario
+obtenga acceso a las entradas creadas, justo
+después de crearlas o buscarlas. La búsqueda
+se implementa para permitir que el usuario
+filtre las entradas que no necesita.
+
+En una base de datos SQL, la consulta Select
+pertenece a este tipo de operación.
+
+
+--- PÁGINA 146 ---
+MODIFICACIONES Y CONSULTAS
+
+Consultas
+
+Nuevamente en el archivo de procedimientos, realizamos las dos últimas consultas
+para leer los datos guardados en la base de datos. Para este caso hacemos dos
+tipos de consulta: una donde se busque específicamente el registro mediante el ID,
+y la otra consulta de manera general con todos los registros existentes.
+
+EJBEGIN
+SELECT FROM datospersonales WHERE id=41D
+END
+
+EJBEGIN
+
+SELECT * FROM datospersonales
+
+END
+
+U4 TRANSACCIONES CON BASES DE DATOS
+
+
+--- PÁGINA 147 ---
+MODIFICACIONES Y CONSULTAS
+
+U4
+
+Consultas
+
+Al igual que la codificación de todos
+los botones anteriores, el código del
+evento de botón buscar, btnBuscar
+sigue la misma estructura, a diferencia
+del IF, donde se especifica que los
+datos buscados se mostrarán en los
+espacios donde los ingresamos.
+
+if (txt
+1
+
+cmd
+cmd
+cmd
+cmd
+cmd
+cmd
+cmd
+cmd
+
+dr =
+
+btnBuscar_Click(
+
+sender, EventArgs e)
+
+Buscar.Text != Empty)
+
+SqlCommand(
+
+En):
+
+CommandType = CommandType .StoredProcedure;
+Parameters.AddWithValue( "ID
+
+Parameters.AddWithValue(
+Parameters.AddWithValue(
+Parameters.AddWithValue(
+Parameters.AddWithValue(
+Parameters.AddWithValue(
+cmd .ExecuteReader();
+
+£ (dr.Read())
+
+1
+
+txtNombre.Text dr["N
+txtDireccion.Text = dr[
+Ciudad.Text drí[
+Hombre .Text = dr[
+
+btnModificar.Enabled =
+
+, txtBuscar.Text);
+
+nn);
+
+].ToString(O);
+].ToString();
+].ToString();
+].ToStringO);
+Mujer.Text = dr["! r”].ToString(O);
+txtresultados.Text = dr[
+btnEliminar.Enabled =
+
+].ToStringO) ;
+
+
+--- PÁGINA 148 ---
+LECTURAS PARA
+REFORZAR LA UNIDAD
+
+
+--- PÁGINA 149 ---
+La capacidad de crear, leer, actualizar y eliminar CONCLUSIÓN
+
+elementos en una aplicación web es crucial para
+la mayoría de los proyectos de pila completa.
+
+CRUD es demasiado importante para ignorarlo,
+por lo que aprenderlo realmente puede mejorar
+la confianza dentro de pilas desconocidas.
+Registrarse en un sitio web, guardar un marcador,
+ajustar una configuración o eliminar una
+publicación de Facebook: sin CRUD, nada de esto
+sería posible.
+
+TRANSACCIONES CON BASES DE DATOS
+
+
+--- PÁGINA 150 ---
+IFELICIDADES!
+
+Acabas de concluir la cuarta unidad de tu curso
+Lenguajes de Programación III. Te invitamos a
+finalizar este esfuerzo realizando el examen parcial
+correspondiente. Para ello, debes regresar a la
+pantalla principal y dar clic en Presentar examen.
+
+TRANSACCIONES CON BASES DE DATOS
+
+
+--- PÁGINA 151 ---
+BIBLIOGRAFÍA
+
+OA. (2022, 1 septiembre). Tutorial: Un paseo por el IDE de Visual Studio.
+Microsoft Docs.
+
+O Chavhan, G. (2018, 9 abril). Common Language Specification In .NET. CX*
+Corner.
+
+OCA console based application. (s. f.) — Net-Informations.
+O Documentos de CF: inicio, tutoriales y referencias. (Ss. f.). Microsoft Docs.
+
+O JHadiya, Y. (s.f.). CRUD Operation In CH Windows Application Using Store
+Procedure.
+
+O Staff, C. (2021, 9 agosto). Windows Forms Controls. CodeGuru.
+O Thakur, D. (2013, 8 marzo). Common Type System (CTS). Computer Notes.
+O Thompson, B. (2022, 25 agosto). CH Windows Forms Application Tutorial
+
+with Example. Guru99,
+
+
+--- PÁGINA 152 ---
+cua]
+<
+ZÉ
+LL
+O
+E
+O
+LJ
+Ss
+O
+oí
+Aa
+
+
+--- PÁGINA 153 ---
+PROYECTO FINAL
+
+Te invitamos a realizar la siguiente actividad.
+
+Presiona el botón para descargar la actividad.
+
+Presiona el botón para entregar la actividad.
+

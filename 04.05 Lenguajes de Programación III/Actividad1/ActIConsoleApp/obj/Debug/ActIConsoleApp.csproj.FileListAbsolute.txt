@@ -1,0 +1,7 @@
+C:\Users\PERGA\source\repos\ActIConsoleApp\bin\Debug\ActIConsoleApp.exe.config
+C:\Users\PERGA\source\repos\ActIConsoleApp\bin\Debug\ActIConsoleApp.exe
+C:\Users\PERGA\source\repos\ActIConsoleApp\bin\Debug\ActIConsoleApp.pdb
+C:\Users\PERGA\source\repos\ActIConsoleApp\obj\Debug\ActIConsoleApp.csproj.AssemblyReference.cache
+C:\Users\PERGA\source\repos\ActIConsoleApp\obj\Debug\ActIConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\PERGA\source\repos\ActIConsoleApp\obj\Debug\ActIConsoleApp.exe
+C:\Users\PERGA\source\repos\ActIConsoleApp\obj\Debug\ActIConsoleApp.pdb

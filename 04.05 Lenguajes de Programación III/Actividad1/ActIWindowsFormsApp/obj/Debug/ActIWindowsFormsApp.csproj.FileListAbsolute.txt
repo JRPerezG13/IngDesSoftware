@@ -1,0 +1,10 @@
+C:\Users\PERGA\source\repos\ActIWindowsFormsApp\bin\Debug\ActIWindowsFormsApp.exe.config
+C:\Users\PERGA\source\repos\ActIWindowsFormsApp\bin\Debug\ActIWindowsFormsApp.exe
+C:\Users\PERGA\source\repos\ActIWindowsFormsApp\bin\Debug\ActIWindowsFormsApp.pdb
+C:\Users\PERGA\source\repos\ActIWindowsFormsApp\obj\Debug\ActIWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\PERGA\source\repos\ActIWindowsFormsApp\obj\Debug\ActIWindowsFormsApp.Form1.resources
+C:\Users\PERGA\source\repos\ActIWindowsFormsApp\obj\Debug\ActIWindowsFormsApp.Properties.Resources.resources
+C:\Users\PERGA\source\repos\ActIWindowsFormsApp\obj\Debug\ActIWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\PERGA\source\repos\ActIWindowsFormsApp\obj\Debug\ActIWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\PERGA\source\repos\ActIWindowsFormsApp\obj\Debug\ActIWindowsFormsApp.exe
+C:\Users\PERGA\source\repos\ActIWindowsFormsApp\obj\Debug\ActIWindowsFormsApp.pdb

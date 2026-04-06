@@ -1,0 +1,14 @@
+C:\Users\PERGA\source\repos\Actividad2\obj\Debug\Actividad2.csproj.AssemblyReference.cache
+C:\Users\PERGA\source\repos\Actividad2\bin\Debug\Actividad2.exe.config
+C:\Users\PERGA\source\repos\Actividad2\bin\Debug\Actividad2.exe
+C:\Users\PERGA\source\repos\Actividad2\bin\Debug\Actividad2.pdb
+C:\Users\PERGA\source\repos\Actividad2\obj\Debug\Actividad2.Menu.resources
+C:\Users\PERGA\source\repos\Actividad2\obj\Debug\Actividad2.Properties.Resources.resources
+C:\Users\PERGA\source\repos\Actividad2\obj\Debug\Actividad2.csproj.GenerateResource.cache
+C:\Users\PERGA\source\repos\Actividad2\obj\Debug\Actividad2.csproj.CoreCompileInputs.cache
+C:\Users\PERGA\source\repos\Actividad2\obj\Debug\Actividad2.exe
+C:\Users\PERGA\source\repos\Actividad2\obj\Debug\Actividad2.pdb
+C:\Users\PERGA\source\repos\Actividad2\obj\Debug\Actividad2.Saludo.resources
+C:\Users\PERGA\source\repos\Actividad2\obj\Debug\Actividad2.infop.resources
+C:\Users\PERGA\source\repos\Actividad2\obj\Debug\Actividad2.Operaciones.resources
+C:\Users\PERGA\source\repos\Actividad2\obj\Debug\Actividad2.flogin.resources
